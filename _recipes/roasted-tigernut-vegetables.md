@@ -1,4 +1,3 @@
-# _recipes/roasted-tigernut-vegetables.md
 ---
 layout: recipe
 title: "Roasted Tigernut Vegetables"

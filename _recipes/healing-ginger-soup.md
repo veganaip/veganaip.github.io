@@ -1,4 +1,3 @@
-# _recipes/healing-ginger-soup.md
 ---
 layout: recipe
 title: "Healing Ginger Vegetable Soup"
