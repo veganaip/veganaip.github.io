@@ -1,20 +1,24 @@
 <!-- _includes/recipe-card.html -->
 <div class="recipe-card" data-foods="{{ recipe.foods | jsonify | escape }}">
     <a href="{{ recipe.url | relative_url }}" class="recipe-card-link">
+        {% if recipe.image %}
         <div class="recipe-card-image">
             <img src="{{ recipe.image | relative_url }}" alt="{{ recipe.title }}">
         </div>
+        {% endif %}
         <div class="recipe-card-content">
             <h3>{{ recipe.title }}</h3>
             <div class="recipe-card-meta">
                 <span>Prep: {{ recipe.prep_time }}m</span>
                 <span>Cook: {{ recipe.cook_time }}m</span>
             </div>
+            {% if recipe.categories %}
             <div class="recipe-card-categories">
                 {% for category in recipe.categories %}
                 <span class="category-tag">{{ category }}</span>
                 {% endfor %}
             </div>
+            {% endif %}
         </div>
     </a>
 </div>
