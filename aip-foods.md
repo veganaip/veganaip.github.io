@@ -1,11 +1,11 @@
 ---
 layout: default
-title: AIP Foods | Vegan AIP Kitchen
+title: AIP-Compliant Foods
 ---
 
 # AIP-Compliant Foods
 
-{% raw %}{% include food-filter.html %}{% endraw %}
+{%- include food-filter.html -%}
 
 ## What Can I Eat on Vegan AIP?
 

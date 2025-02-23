@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 30-Day Meal Plan | Vegan AIP Kitchen
+title: 30-Day AIP Meal Plan
 ---
 
 # 30-Day AIP Meal Plan
 
 Coming soon! Sign up for our newsletter to be notified when our free meal plan is ready.
 
-{% raw %}{% include mailchimp.html %}{% endraw %}
+{%- include mailchimp.html -%}

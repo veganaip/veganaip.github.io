@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Recipes | Vegan AIP Kitchen
+title: AIP Vegan Recipes
 ---
 
 # AIP Vegan Recipes
 
 <div class="recipe-grid">
-{% raw %}{% for recipe in site.recipes %}
-    {% include recipe-card.html recipe=recipe %}
-{% endfor %}{% endraw %}
+  {%- for recipe in site.recipes -%}
+    {%- include recipe-card.html recipe=recipe -%}
+  {%- endfor -%}
 </div>
