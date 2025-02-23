@@ -1,7 +1,7 @@
 # _config.yml
 title: Vegan AIP Kitchen
 description: Simple, delicious vegan recipes for the AIP (Autoimmune Protocol) diet
-baseurl: "/veganaip.github.io"  # Change if not using custom domain
+baseurl: ""  # Change if not using custom domain
 url: "https://veganaip.github.io"      # Your domain will go here
 markdown: kramdown
 permalink: /recipes/:title/
