@@ -2,7 +2,7 @@
 title: Vegan AIP Kitchen
 description: Simple, delicious vegan recipes for the AIP (Autoimmune Protocol) diet
 baseurl: ""  # Change if not using custom domain
-url: "https://veganaip.github.io"      # Your domain will go here
+url: "https://veganaip.com"      # Your domain will go here
 markdown: kramdown
 permalink: /recipes/:title/
 
