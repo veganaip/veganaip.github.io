@@ -1,0 +1,27 @@
+# _config.yml
+title: Vegan AIP Kitchen
+description: Simple, delicious vegan recipes for the AIP (Autoimmune Protocol) diet
+baseurl: ""  # Change if not using custom domain
+url: ""      # Your domain will go here
+markdown: kramdown
+permalink: /recipes/:title/
+
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: "recipe"
+
+plugins:
+  - jekyll-seo-tag
+
+# Custom settings
+social:
+  instagram: yourusername
+  pinterest: yourusername
