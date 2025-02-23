@@ -158,4 +158,51 @@ body {
     }
 }
 
+/* In assets/css/main.css */
+
+/* Recipe card images */
+.recipe-card-image {
+    position: relative;
+    width: 100%;
+    padding-top: 75%; /* 4:3 aspect ratio */
+    overflow: hidden;
+}
+
+.recipe-card-image img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Recipe detail page images */
+.recipe-header-image {
+    width: 100%;
+    max-height: 500px;
+    overflow: hidden;
+}
+
+.recipe-header-image img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+/* Responsive grid adjustments */
+.recipe-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+@media (max-width: 768px) {
+    .recipe-grid {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 1rem;
+    }
+}
+
 /* Print Styles in print.css */
