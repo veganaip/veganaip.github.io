@@ -429,6 +429,11 @@ fresh_mint:
   name: "fresh mint"
   link: ""
   notes: "leaves"
+  
+banana_chips:
+  name: "banana chips"
+  link: ""
+  notes: "unsweetened"
 
 baking_powder:
   name: "baking powder"

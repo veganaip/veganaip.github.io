@@ -17,9 +17,9 @@ ingredients:
   - id: cucumber
     amount: 1 medium
     notes: seeded and julienned
-  - id: green_beans
+  - id: water_chestnuts
     amount: 1 cup
-    notes: trimmed and cut into 2-inch pieces
+    notes: sliced, for crunch
   - id: garlic
     amount: 3 cloves
     notes: minced
@@ -44,7 +44,7 @@ foods:
   - papaya
   - carrot
   - cucumber
-  - green-bean
+  - water-chestnut
   - lime
   - herbs
   - tigernut
@@ -53,7 +53,7 @@ notes: |
 ---
 1. In a large bowl, combine shredded green papaya, julienned carrots, and cucumber.
 
-2. Bring a small pot of water to boil and blanch the green beans for 1 minute. Immediately transfer to an ice bath to stop cooking, then drain well and add to the bowl with the papaya mixture.
+2. Add the sliced water chestnuts to the bowl with the papaya mixture.
 
 3. In a separate small bowl, make the dressing by whisking together minced garlic, lime juice, coconut aminos, and maple syrup.
 

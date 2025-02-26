@@ -31,9 +31,9 @@ ingredients:
   - id: nutritional_yeast
     amount: 2 tbsp
     notes: optional, for a cheesy flavor
-  - id: gelatin_powder
+  - id: arrowroot_powder
     amount: 1 tbsp
-    notes: optional, for better texture
+    notes: additional, for better texture
 tags: [pizza, italian, bread]
 foods:
   - cassava
@@ -47,9 +47,9 @@ notes: |
 
 2. In a large bowl, whisk together cassava flour, arrowroot powder, garlic powder, dried oregano, salt, and nutritional yeast (if using).
 
-3. If using gelatin, bloom it by sprinkling over 1/4 cup of the warm water in a small bowl and let sit for 1 minute, then whisk until dissolved.
+3. Set aside 1/4 cup of the warm water in a small bowl. Add the additional tablespoon of arrowroot powder (if using), whisk until dissolved.
 
-4. Add olive oil, remaining warm water, apple cider vinegar, and bloomed gelatin (if using) to the dry ingredients.
+4. Add olive oil, remaining warm water, apple cider vinegar, and the arrowroot mixture (if using) to the dry ingredients.
 
 5. Mix until a dough forms, first with a spoon and then with your hands. The dough should be pliable but not sticky. If too dry, add a tablespoon of water at a time; if too sticky, add a tablespoon of cassava flour.
 

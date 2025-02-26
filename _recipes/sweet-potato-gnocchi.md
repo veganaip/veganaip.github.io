@@ -33,7 +33,7 @@ ingredients:
     notes: thick cream part only
   - id: nutritional_yeast
     amount: 2 tbsp
-    notes: optional, for cheesy flavor
+    notes: optional, omit for strict AIP
   - id: fresh_herbs
     amount: 2 tbsp
     notes: chopped (parsley or basil)

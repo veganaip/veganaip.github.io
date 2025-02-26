@@ -31,7 +31,7 @@ ingredients:
     amount: to taste
   - id: nutritional_yeast
     amount: 1 tbsp
-    notes: optional, for cheesy flavor
+    notes: optional, omit for strict AIP
 tags: [dressing, ranch, salad]
 foods:
   - coconut

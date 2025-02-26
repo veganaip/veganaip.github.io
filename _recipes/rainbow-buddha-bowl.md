@@ -43,9 +43,12 @@ ingredients:
   - id: tigernuts
     amount: 3 tbsp
     notes: sliced, for garnish
-  - id: tahini
-    amount: 3 tbsp
-    notes: optional, omit for strict AIP
+  - id: coconut_cream
+    amount: 1/4 cup
+    notes: thick part from top of coconut milk can
+  - id: tigernut_oil
+    amount: 1 tbsp
+    notes: adds nutty flavor
   - id: lemon
     amount: 1
     notes: juiced
@@ -95,13 +98,15 @@ notes: |
 
 4. Remove from heat and rinse with cold water to stop the cooking process.
 
-### For the Tahini Sauce (optional, omit for strict AIP):
+### For the Creamy Tigernut Sauce:
 
-1. In a small bowl, whisk together tahini, lemon juice, minced garlic, and maple syrup.
+1. In a small bowl, whisk together coconut cream, tigernut oil, lemon juice, minced garlic, and maple syrup.
 
 2. Gradually add warm water, 1 tablespoon at a time, whisking until the sauce reaches your desired consistency.
 
 3. Season with salt to taste.
+
+4. For extra flavor, add 1/4 teaspoon of dried herbs or 1 tablespoon of fresh chopped herbs.
 
 ### For AIP-Compliant Alternative Sauce:
 
@@ -118,7 +123,7 @@ notes: |
    - Cucumber slices
    - Avocado slices
 
-2. Drizzle with tahini sauce or avocado sauce.
+2. Drizzle with creamy tigernut sauce or avocado sauce.
 
 3. Sprinkle with fresh herbs and sliced tigernuts.
 
