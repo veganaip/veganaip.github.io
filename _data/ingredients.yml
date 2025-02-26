@@ -215,10 +215,20 @@ oregano:
   link: ""
   notes: "dried or fresh"
 
+dried_oregano:
+  name: "dried oregano"
+  link: ""
+  notes: "Italian blend preferred"
+
 thyme:
   name: "thyme"
   link: ""
   notes: "dried or fresh"
+
+dried_thyme:
+  name: "dried thyme"
+  link: ""
+  notes: ""
 
 lime:
   name: "lime"
@@ -419,6 +429,11 @@ fresh_mint:
   name: "fresh mint"
   link: ""
   notes: "leaves"
+
+baking_powder:
+  name: "baking powder"
+  link: ""
+  notes: "aluminum-free"
 
 fresh_ginger:
   name: "fresh ginger"

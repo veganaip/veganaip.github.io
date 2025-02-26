@@ -19,10 +19,13 @@ ingredients:
     amount: 3/4 cup
   - id: apple_cider_vinegar
     amount: 1 tsp
+  - id: baking_powder
+    amount: 1 tsp
   - id: garlic_powder
     amount: 1 tsp
   - id: dried_oregano
     amount: 1 tsp
+    notes: Italian blend preferred
   - id: sea_salt
     amount: 1 tsp
   - id: nutritional_yeast

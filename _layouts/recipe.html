@@ -23,6 +23,7 @@ layout: default
                 {% for ingredient in page.ingredients %}
                 {% assign ingredient_id = ingredient.id | default: ingredient.name | slugify | replace: "-", "_" %}
                 {% assign data_ingredient = site.data.ingredients[ingredient_id] %}
+                {% if data_ingredient.name or ingredient.name %}
                 <li>
                     {% if ingredient.link or data_ingredient.link != "" and data_ingredient.link %}
                     <a href="{{ ingredient.link | default: data_ingredient.link }}" target="_blank" rel="nofollow">
@@ -34,6 +35,14 @@ layout: default
                     {% assign note_content = ingredient.notes | default: data_ingredient.notes %}
                     {% if note_content != blank and note_content != "" %}<em>({{ note_content }})</em>{% endif %}
                 </li>
+                {% else %}
+                <!-- Debugging: Missing ingredient name for ID: {{ ingredient_id }} -->
+                <li class="missing-ingredient-data">
+                    {{ ingredient.amount }} <span class="error">MISSING INGREDIENT: {{ ingredient_id }}</span>
+                    {% assign note_content = ingredient.notes | default: data_ingredient.notes %}
+                    {% if note_content != blank and note_content != "" %}<em>({{ note_content }})</em>{% endif %}
+                </li>
+                {% endif %}
                 {% endfor %}
             </ul>
         </section>

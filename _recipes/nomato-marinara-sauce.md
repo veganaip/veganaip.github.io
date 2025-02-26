@@ -31,7 +31,10 @@ ingredients:
     amount: 2 tsp
   - id: dried_oregano
     amount: 2 tsp
+    notes: Italian blend preferred
   - id: dried_parsley
+    amount: 1 tsp
+  - id: dried_thyme
     amount: 1 tsp
   - id: sea_salt
     amount: to taste
