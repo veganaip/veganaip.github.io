@@ -1,0 +1,60 @@
+# Ingredients with affiliate links
+# Format: 
+#   ingredient_name:
+#     link: affiliate link URL
+#     notes: optional description or substitution info
+
+coconut_milk_full_fat:
+  name: "full-fat coconut milk"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "organic, no additives"
+
+tigernut_oil:
+  name: "tigernut oil"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "AIP-compliant oil"
+
+ginger_root:
+  name: "ginger root"
+  link: ""
+  notes: "fresh preferred"
+
+vegetable_broth:
+  name: "vegetable broth"
+  link: ""
+  notes: "homemade or AIP-compliant"
+
+carrots:
+  name: "carrots"
+  link: ""
+  notes: ""
+
+sweet_potato:
+  name: "sweet potato"
+  link: ""
+  notes: ""
+
+sea_salt:
+  name: "sea salt"
+  link: ""
+  notes: ""
+
+turmeric_root:
+  name: "turmeric root"
+  link: ""
+  notes: "fresh preferred"
+
+parsnips:
+  name: "parsnips"
+  link: ""
+  notes: ""
+
+maple_syrup:
+  name: "maple syrup"
+  link: ""
+  notes: "100% pure"
+
+rosemary:
+  name: "rosemary"
+  link: ""
+  notes: "fresh or dried"

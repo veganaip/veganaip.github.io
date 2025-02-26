@@ -21,13 +21,18 @@ layout: default
             <h2>Ingredients</h2>
             <ul>
                 {% for ingredient in page.ingredients %}
+                {% assign ingredient_id = ingredient.id | default: ingredient.name | slugify | replace: "-", "_" %}
+                {% assign data_ingredient = site.data.ingredients[ingredient_id] %}
                 <li>
-                    {% if ingredient.link %}
-                    <a href="{{ ingredient.link }}" target="_blank" rel="nofollow">{{ ingredient.amount }} {{ ingredient.name }}</a>
+                    {% if ingredient.link or data_ingredient.link != "" and data_ingredient.link %}
+                    <a href="{{ ingredient.link | default: data_ingredient.link }}" target="_blank" rel="nofollow">
+                        {{ ingredient.amount }} {{ ingredient.name | default: data_ingredient.name }}
+                    </a>
                     {% else %}
                     {{ ingredient.amount }} {{ ingredient.name }}
                     {% endif %}
                     {% if ingredient.notes %}<em>({{ ingredient.notes }})</em>{% endif %}
+                    {% if data_ingredient.notes and ingredient.notes == nil %}<em>({{ data_ingredient.notes }})</em>{% endif %}
                 </li>
                 {% endfor %}
             </ul>
