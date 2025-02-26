@@ -2,7 +2,7 @@
 layout: recipe
 title: "Roasted Tigernut Vegetables"
 date: 2025-02-23
-image: /assets/images/recipes/tigernut-vegetables.jpg
+image: /assets/images/recipes/roasted-tigernut-vegetables.jpg
 prep_time: 20
 cook_time: 40
 servings: 6
