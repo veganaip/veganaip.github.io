@@ -8,26 +8,22 @@ cook_time: 30
 servings: 4
 categories: [soups, main]
 ingredients:
-  - name: full-fat coconut milk
+  - id: coconut_milk_full_fat
     amount: 2 cans (800ml)
-    link: https://amzn.to/youraffiliatelink
-    notes: organic preferred
-  - name: ginger root
+  - id: ginger_root
     amount: 3 inches
     notes: peeled and minced
-  - name: vegetable broth
+  - id: vegetable_broth
     amount: 4 cups
-    notes: homemade preferred
-  - name: carrots
+  - id: carrots
     amount: 3 large
     notes: chopped
-  - name: sweet potato
+  - id: sweet_potato
     amount: 1 large
     notes: cubed
-  - name: sea salt
-    amount: 1 tsp
-    notes: to taste
-  - name: turmeric root
+  - id: sea_salt
+    amount: to taste
+  - id: turmeric_root
     amount: 1 inch
     notes: fresh, peeled and minced
 tags: [coconut, root-vegetables]

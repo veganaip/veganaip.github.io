@@ -8,26 +8,24 @@ cook_time: 40
 servings: 6
 categories: [sides, vegetables]
 ingredients:
-  - name: sweet potatoes
+  - id: sweet_potato
     amount: 2 medium
     notes: peeled and cubed
-  - name: carrots
+  - id: carrots
     amount: 4 large
     notes: cut into chunks
-  - name: parsnips
+  - id: parsnips
     amount: 3 medium
     notes: peeled and cut into chunks
-  - name: tigernut oil
+  - id: tigernut_oil
     amount: 3 tbsp
-    link: https://amzn.to/youraffiliatelink
     notes: or coconut oil
-  - name: maple syrup
+  - id: maple_syrup
     amount: 2 tbsp
     notes: optional
-  - name: sea salt
-    amount: 1 tsp
-    notes: to taste
-  - name: rosemary
+  - id: sea_salt
+    amount: to taste
+  - id: rosemary
     amount: 2 sprigs
     notes: fresh
 tags: [root-vegetables, tigernut]

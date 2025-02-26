@@ -58,3 +58,474 @@ rosemary:
   name: "rosemary"
   link: ""
   notes: "fresh or dried"
+
+# Added specialty AIP ingredients
+cassava_flour:
+  name: "cassava flour"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "AIP-compliant flour substitute"
+
+tigernut_flour:
+  name: "tigernut flour"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "AIP-compliant flour substitute"
+
+coconut_flour:
+  name: "coconut flour"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "AIP-compliant flour substitute"
+
+coconut_aminos:
+  name: "coconut aminos"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "soy sauce substitute"
+
+green_plantains:
+  name: "green plantains"
+  link: ""
+  notes: "should be very firm and green"
+
+gelatin_powder:
+  name: "grass-fed gelatin powder"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "unflavored"
+
+arrowroot_powder:
+  name: "arrowroot powder"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "thickening agent"
+
+nutritional_yeast:
+  name: "nutritional yeast"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "adds cheesy flavor"
+
+lemongrass:
+  name: "lemongrass"
+  link: ""
+  notes: "fresh preferred"
+
+jackfruit_young:
+  name: "young green jackfruit"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "in water or brine, not syrup"
+
+palm_hearts:
+  name: "hearts of palm"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "canned"
+
+olive_oil:
+  name: "extra virgin olive oil"
+  link: ""
+  notes: "cold-pressed"
+
+avocado_oil:
+  name: "avocado oil"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "high heat cooking oil"
+
+coconut_oil:
+  name: "coconut oil"
+  link: ""
+  notes: "unrefined, virgin"
+
+manioc_starch:
+  name: "manioc starch"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "also called tapioca starch"
+
+dried_lavender:
+  name: "dried culinary lavender"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "edible grade only"
+
+passion_fruit:
+  name: "passion fruit"
+  link: ""
+  notes: "fresh"
+
+pomegranate_molasses:
+  name: "pomegranate molasses"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "check for AIP compliance, no additives"
+
+green_papaya:
+  name: "green papaya"
+  link: ""
+  notes: "unripe"
+
+kombucha:
+  name: "unflavored kombucha"
+  link: ""
+  notes: "no added sugar or flavors"
+
+beets:
+  name: "beets"
+  link: ""
+  notes: "fresh"
+
+spaghetti_squash:
+  name: "spaghetti squash"
+  link: ""
+  notes: "medium sized"
+
+butternut_squash:
+  name: "butternut squash"
+  link: ""
+  notes: ""
+
+zucchini:
+  name: "zucchini"
+  link: ""
+  notes: ""
+
+garlic:
+  name: "garlic"
+  link: ""
+  notes: ""
+
+onions:
+  name: "onions"
+  link: ""
+  notes: ""
+
+cilantro:
+  name: "cilantro"
+  link: ""
+  notes: "fresh"
+
+basil:
+  name: "basil"
+  link: ""
+  notes: "fresh"
+
+mint:
+  name: "mint"
+  link: ""
+  notes: "fresh"
+
+cinnamon:
+  name: "cinnamon"
+  link: ""
+  notes: "ground"
+
+oregano:
+  name: "oregano"
+  link: ""
+  notes: "dried or fresh"
+
+thyme:
+  name: "thyme"
+  link: ""
+  notes: "dried or fresh"
+
+lime:
+  name: "lime"
+  link: ""
+  notes: "fresh"
+
+lemon:
+  name: "lemon"
+  link: ""
+  notes: "fresh"
+
+green_onions:
+  name: "green onions"
+  link: ""
+  notes: "also called scallions"
+
+mushrooms:
+  name: "mushrooms"
+  link: ""
+  notes: "shiitake or cremini preferred"
+
+bok_choy:
+  name: "bok choy"
+  link: ""
+  notes: ""
+
+cauliflower:
+  name: "cauliflower"
+  link: ""
+  notes: ""
+
+broccoli:
+  name: "broccoli"
+  link: ""
+  notes: ""
+
+kale:
+  name: "kale"
+  link: ""
+  notes: ""
+
+spinach:
+  name: "spinach"
+  link: ""
+  notes: ""
+
+collard_greens:
+  name: "collard greens"
+  link: ""
+  notes: ""
+
+apple_cider_vinegar:
+  name: "apple cider vinegar"
+  link: ""
+  notes: "raw, unfiltered"
+
+applesauce:
+  name: "applesauce"
+  link: ""
+  notes: "unsweetened"
+
+dates:
+  name: "dates"
+  link: ""
+  notes: "medjool preferred"
+
+figs:
+  name: "dried figs"
+  link: ""
+  notes: "unsulfured"
+
+tigernuts:
+  name: "tigernuts"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "whole or sliced"
+
+ginger_powder:
+  name: "ginger powder"
+  link: ""
+  notes: ""
+
+turmeric_powder:
+  name: "turmeric powder"
+  link: ""
+  notes: ""
+
+sage:
+  name: "sage"
+  link: ""
+  notes: "dried or fresh"
+
+onion_powder:
+  name: "onion powder"
+  link: ""
+  notes: ""
+
+dried_dill:
+  name: "dried dill"
+  link: ""
+  notes: ""
+
+dried_parsley:
+  name: "dried parsley"
+  link: ""
+  notes: ""
+
+dried_basil:
+  name: "dried basil"
+  link: ""
+  notes: ""
+
+avocado:
+  name: "avocado"
+  link: ""
+  notes: "ripe"
+
+garlic_powder:
+  name: "garlic powder"
+  link: ""
+  notes: ""
+
+fresh_herbs:
+  name: "fresh herbs"
+  link: ""
+  notes: "parsley, cilantro, mint, or basil"
+
+vanilla_extract:
+  name: "vanilla extract"
+  link: ""
+  notes: "alcohol-free for strict AIP"
+
+fresh_berries:
+  name: "fresh berries"
+  link: ""
+  notes: "any AIP-compliant berries"
+
+coconut_cream:
+  name: "coconut cream"
+  link: ""
+  notes: "thick part from top of coconut milk can"
+
+fresh_apple:
+  name: "fresh apple"
+  link: ""
+  notes: "sweet variety preferred"
+
+dried_basil:
+  name: "dried basil"
+  link: ""
+  notes: ""
+
+celery:
+  name: "celery"
+  link: ""
+  notes: ""
+
+fresh_parsley:
+  name: "fresh parsley"
+  link: ""
+  notes: ""
+
+fresh_basil:
+  name: "fresh basil"
+  link: ""
+  notes: ""
+
+cucumber:
+  name: "cucumber"
+  link: ""
+  notes: ""
+
+green_beans:
+  name: "green beans"
+  link: ""
+  notes: ""
+
+frozen_banana:
+  name: "frozen banana"
+  link: ""
+  notes: "peeled and frozen when ripe"
+
+frozen_mango:
+  name: "frozen mango"
+  link: ""
+  notes: "chunks"
+
+frozen_pineapple:
+  name: "frozen pineapple"
+  link: ""
+  notes: "chunks"
+
+coconut_water:
+  name: "coconut water"
+  link: ""
+  notes: "unsweetened"
+
+fresh_mint:
+  name: "fresh mint"
+  link: ""
+  notes: "leaves"
+
+fresh_ginger:
+  name: "fresh ginger"
+  link: ""
+  notes: "peeled"
+
+ice_cubes:
+  name: "ice cubes"
+  link: ""
+  notes: ""
+
+coconut_flakes:
+  name: "coconut flakes"
+  link: ""
+  notes: "unsweetened"
+
+pumpkin_seeds:
+  name: "pumpkin seeds"
+  link: ""
+  notes: "raw, hulled"
+
+sunflower_seeds:
+  name: "sunflower seeds"
+  link: ""
+  notes: "raw, hulled"
+
+dried_cranberries:
+  name: "dried cranberries"
+  link: ""
+  notes: "unsweetened or apple juice sweetened"
+
+dried_apricots:
+  name: "dried apricots"
+  link: ""
+  notes: "unsulfured, organic"
+
+warm_water:
+  name: "warm water"
+  link: ""
+  notes: "filtered"
+
+hearts_of_palm:
+  name: "hearts of palm"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "canned"
+
+water_chestnuts:
+  name: "water chestnuts"
+  link: ""
+  notes: "canned, drained"
+
+fish_sauce:
+  name: "fish sauce"
+  link: "https://amzn.to/youraffiliatelink"
+  notes: "compliant AIP version"
+
+butter_lettuce:
+  name: "butter lettuce"
+  link: ""
+  notes: "also called Boston or Bibb lettuce"
+
+red_onion:
+  name: "red onion"
+  link: ""
+  notes: ""
+
+cumin:
+  name: "cumin"
+  link: ""
+  notes: "omit for strict AIP"
+
+mixed_greens:
+  name: "mixed greens"
+  link: ""
+  notes: "spring mix or baby kale"
+
+radishes:
+  name: "radishes"
+  link: ""
+  notes: "thinly sliced"
+
+figs:
+  name: "figs"
+  link: ""
+  notes: "dried, unsulfured"
+
+hot_water:
+  name: "hot water"
+  link: ""
+  notes: ""
+
+balsamic_vinegar:
+  name: "balsamic vinegar"
+  link: ""
+  notes: "check for AIP compliance"
+
+shallot:
+  name: "shallot"
+  link: ""
+  notes: ""
+
+red_cabbage:
+  name: "red cabbage"
+  link: ""
+  notes: "thinly sliced"
+
+tahini:
+  name: "tahini"
+  link: ""
+  notes: "optional, omit for strict AIP"

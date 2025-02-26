@@ -29,10 +29,10 @@ layout: default
                         {{ ingredient.amount }} {{ ingredient.name | default: data_ingredient.name }}
                     </a>
                     {% else %}
-                    {{ ingredient.amount }} {{ ingredient.name }}
+                    {{ ingredient.amount }} {{ ingredient.name | default: data_ingredient.name }}
                     {% endif %}
-                    {% if ingredient.notes %}<em>({{ ingredient.notes }})</em>{% endif %}
-                    {% if data_ingredient.notes and ingredient.notes == nil %}<em>({{ data_ingredient.notes }})</em>{% endif %}
+                    {% assign note_content = ingredient.notes | default: data_ingredient.notes %}
+                    {% if note_content != blank and note_content != "" %}<em>({{ note_content }})</em>{% endif %}
                 </li>
                 {% endfor %}
             </ul>
