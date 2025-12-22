@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Simple Cauliflower Rice Stir-Fry"
+description: "Quick AIP cauliflower rice stir-fry with colorful vegetables and coconut aminos. 30-minute weeknight dinner."
 date: 2025-12-21
 image: /assets/images/recipes/simple-cauliflower-rice-stir-fry.jpg
 prep_time: 15
@@ -39,6 +40,18 @@ ingredients:
   - id: sea_salt
     amount: 1/2 tsp
 tags: [stir-fry, cauliflower rice, quick, weeknight, vegetables]
+instructions:
+  - Cut cauliflower into florets. Pulse in a food processor until rice-sized. Set aside.
+  - Prep all vegetables before you start cooking - stir-frying goes quickly.
+  - Heat 1 tablespoon coconut oil in a large skillet or wok over high heat.
+  - Add onion and carrots. Stir-fry for 3 minutes.
+  - Add garlic, ginger, and zucchini. Stir-fry for 2 minutes.
+  - Add bok choy and stir-fry for 2 minutes until just wilted. Push vegetables to the side.
+  - Add remaining 1 tablespoon coconut oil to the empty side of the pan.
+  - Add cauliflower rice and spread into an even layer. Let cook undisturbed for 2 minutes.
+  - Cook for another 2-3 minutes until slightly golden.
+  - Mix vegetables and cauliflower rice together. Add coconut aminos and salt. Toss to combine.
+  - Top with sliced green onions and serve immediately.
 foods:
   - cauliflower
   - bok choy

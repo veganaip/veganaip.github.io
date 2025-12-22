@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Nomato Minestrone Soup"
+description: "Italian-style AIP minestrone made with beets instead of tomatoes. Hearty vegetable soup packed with butternut squash and herbs."
 date: 2025-02-25
 image: /assets/images/recipes/nomato-minestrone-soup.jpg
 prep_time: 20
@@ -54,6 +55,17 @@ ingredients:
     amount: 1 tbsp
     notes: adds acidity like tomatoes
 tags: [soup, italian, minestrone]
+instructions:
+  - Heat olive oil in a large pot over medium heat. Add onions, carrots, and celery, and sauté for 5-7 minutes until softened.
+  - Add garlic and cook for another minute until fragrant.
+  - Add grated beets and stir to combine, cooking for 2-3 minutes.
+  - Add zucchini, butternut squash, and sweet potato. Stir to coat with oil.
+  - Pour in vegetable broth and bring to a boil. Add dried herbs, reduce heat to low, and simmer covered for 25-30 minutes until vegetables are tender.
+  - Add apple cider vinegar and stir to combine.
+  - Season with sea salt to taste.
+  - Ladle into bowls and garnish with fresh parsley and basil.
+  - "Optional: Cook AIP-compliant pasta separately and add to individual bowls when serving."
+  - "Optional: Drizzle each serving with extra virgin olive oil for richness."
 foods:
   - carrot
   - celery

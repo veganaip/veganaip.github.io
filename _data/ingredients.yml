@@ -544,3 +544,33 @@ baking_soda:
   name: "baking soda"
   link: ""
   notes: "aluminum-free"
+
+water:
+  name: "water"
+  link: ""
+  notes: ""
+
+singoda_flour:
+  name: "singoda flour"
+  link: "https://amzn.to/PLACEHOLDER"
+  notes: "water chestnut flour, AIP-compliant"
+
+coconut_sugar:
+  name: "coconut sugar"
+  link: "https://amzn.to/PLACEHOLDER"
+  notes: "reintroduction phase only"
+
+instant_yeast:
+  name: "instant yeast"
+  link: "https://amzn.to/PLACEHOLDER"
+  notes: "also called rapid-rise or bread machine yeast"
+
+blackstrap_molasses:
+  name: "blackstrap molasses"
+  link: "https://amzn.to/PLACEHOLDER"
+  notes: "unsulphured"
+
+fish_sauce:
+  name: "fish sauce"
+  link: "https://amzn.to/PLACEHOLDER"
+  notes: "Red Boat recommended for AIP"

@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Banana Spice Muffins"
+description: "Tender AIP banana muffins with cinnamon and ginger. Naturally sweet breakfast treat that freezes beautifully."
 date: 2025-12-21
 image: /assets/images/recipes/banana-spice-muffins.jpg
 prep_time: 15
@@ -38,6 +39,14 @@ ingredients:
   - id: apple_cider_vinegar
     amount: 1 tsp
 tags: [muffins, banana, spice, breakfast, dessert]
+instructions:
+  - Preheat oven to 350°F (175°C). Line a 12-cup muffin tin with parchment liners or grease well with coconut oil.
+  - In a large bowl, mash bananas until smooth. Add melted coconut oil, maple syrup, vanilla, and apple cider vinegar. Mix well.
+  - In a separate bowl, whisk together cassava flour, tigernut flour, coconut flour, arrowroot, baking soda, cinnamon, ginger, and salt.
+  - Add dry ingredients to wet ingredients and stir until just combined. Do not overmix.
+  - Divide batter evenly among muffin cups (about 2/3 full).
+  - Bake for 22-25 minutes, until tops are golden and a toothpick inserted in the center comes out clean.
+  - Let cool in pan for 5 minutes, then transfer to a wire rack.
 foods:
   - banana
   - cinnamon

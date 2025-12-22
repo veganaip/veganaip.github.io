@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Thai Coconut Vegetable Curry"
+description: "Aromatic AIP Thai curry with lemongrass, ginger, and turmeric in creamy coconut milk with seasonal vegetables."
 date: 2025-02-25
 image: /assets/images/recipes/thai-coconut-curry.jpg
 prep_time: 20
@@ -49,6 +50,17 @@ ingredients:
     amount: 3
     notes: sliced, for garnish
 tags: [coconut, curry, thai]
+instructions:
+  - In a large pot or wok, heat 2 tablespoons of thick coconut cream from the top of one coconut milk can over medium heat.
+  - Add minced ginger, garlic, and turmeric. Sauté for 1-2 minutes until fragrant.
+  - Add the bruised lemongrass stalks and stir for 30 seconds.
+  - Pour in the remaining coconut milk from both cans and bring to a gentle simmer.
+  - Add the sweet potato and carrots first, simmer for 10 minutes.
+  - Add broccoli and mushrooms, continue cooking for 5 minutes.
+  - Add bok choy and cook for 3 minutes more, until all vegetables are tender but still have some texture.
+  - Remove lemongrass stalks. Stir in lime juice and season with sea salt to taste.
+  - Serve hot, garnished with fresh cilantro and green onions.
+  - "Optional: Serve over cauliflower rice for a complete meal."
 foods:
   - coconut
   - ginger

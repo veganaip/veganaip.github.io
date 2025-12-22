@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Fudgy Sweet Potato Carob Brownies"
+description: "Dense, fudgy AIP brownies with sweet potato and carob. Chocolate-free, naturally sweetened, incredibly satisfying."
 date: 2025-12-21
 image: /assets/images/recipes/sweet-potato-carob-brownies.jpg
 prep_time: 20
@@ -33,6 +34,15 @@ ingredients:
     amount: 2 tbsp
     notes: unsweetened, for topping (optional)
 tags: [brownies, carob, sweet-potato, fudgy, dessert]
+instructions:
+  - Preheat oven to 350°F (175°C). Line an 8x8 inch baking pan with parchment paper.
+  - Bake sweet potatoes until completely soft (about 45-60 minutes), or use pre-baked. Mash until smooth and measure 1.5 cups.
+  - In a large bowl, combine mashed sweet potato with melted coconut oil, maple syrup, and vanilla. Mix until smooth.
+  - In a separate bowl, whisk together carob powder, tigernut flour, cassava flour, salt, and baking soda.
+  - Add dry ingredients to wet ingredients and stir until just combined. The batter will be thick.
+  - Pour into prepared pan and spread evenly. Sprinkle with coconut flakes if desired.
+  - Bake for 30-35 minutes, until a toothpick comes out with just a few moist crumbs.
+  - Let cool completely in the pan before cutting. These are fudgier when completely cooled or refrigerated.
 foods:
   - sweet-potato
   - carob

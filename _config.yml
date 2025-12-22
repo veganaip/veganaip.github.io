@@ -20,8 +20,6 @@ defaults:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Custom settings
-social:
-  instagram: yourusername
-  pinterest: yourusername

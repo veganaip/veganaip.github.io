@@ -4,9 +4,16 @@
     .site-header,
     .site-footer,
     .favorite-button,
-    .nav-links,
-    .recipe-meta {
+    .nav-links {
         display: none !important;
+    }
+
+    /* Show recipe metadata (prep time, cook time, servings) */
+    .recipe-meta {
+        display: flex;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 1rem;
+        margin-bottom: 1rem;
     }
 
     /* Reset page margins */

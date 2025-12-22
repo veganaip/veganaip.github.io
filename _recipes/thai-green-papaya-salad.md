@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Thai Green Papaya Salad"
+description: "Fresh AIP Thai salad with shredded green papaya, lime dressing, and crispy tigernuts. Bright, crunchy, and refreshing."
 date: 2025-02-25
 image: /assets/images/recipes/thai-green-papaya-salad.jpg
 prep_time: 25
@@ -40,6 +41,16 @@ ingredients:
     amount: 1/4 cup
     notes: sliced or chopped, for garnish
 tags: [salad, thai, papaya]
+instructions:
+  - In a large bowl, combine shredded green papaya, julienned carrots, and cucumber.
+  - Add the sliced water chestnuts to the bowl with the papaya mixture.
+  - In a separate small bowl, make the dressing by whisking together garlic, lime juice, coconut aminos, and maple syrup.
+  - Pour the dressing over the vegetables and toss well to combine.
+  - Gently fold in the fresh herbs, reserving some for garnish.
+  - Season with sea salt to taste.
+  - Let the salad sit for 10-15 minutes to allow the flavors to meld.
+  - Serve chilled, topped with sliced tigernuts and the remaining fresh herbs.
+  - "Optional: For a spicier version (if reintroduced), add a small amount of ginger to the dressing."
 foods:
   - papaya
   - carrot

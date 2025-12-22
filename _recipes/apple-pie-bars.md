@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "AIP Apple Pie Bars"
+description: "Comforting AIP apple pie in bar form with tigernut crust and cinnamon-ginger spiced apple filling. Fall favorite!"
 date: 2025-12-21
 image: /assets/images/recipes/apple-pie-bars.jpg
 prep_time: 25
@@ -37,6 +38,18 @@ ingredients:
   - id: lemon
     amount: 1 tbsp juice
 tags: [apple, pie, bars, cinnamon, dessert]
+instructions:
+  - Preheat oven to 350°F (175°C). Line a 9x9 inch baking pan with parchment paper.
+  - In a bowl, combine cassava flour, tigernut flour, and salt.
+  - Cut in cold coconut oil until mixture resembles coarse crumbs.
+  - Drizzle in maple syrup and mix until dough comes together.
+  - Press 2/3 of the crust mixture into the bottom of the pan. Reserve remaining 1/3 for topping.
+  - Bake crust for 10 minutes while preparing filling.
+  - Peel and thinly slice apples. Toss with maple syrup, cinnamon, ginger, arrowroot, and lemon juice.
+  - Arrange apple slices over pre-baked crust in overlapping layers.
+  - Crumble reserved crust mixture over the top.
+  - Bake for 35-40 minutes until apples are tender and topping is golden.
+  - Let cool for at least 20 minutes before cutting into bars.
 foods:
   - apple
   - cinnamon

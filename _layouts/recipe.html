@@ -2,9 +2,10 @@
 layout: default
 ---
 <article class="recipe">
+    {% include recipe-schema.html %}
     {% if page.image %}
     <div class="recipe-header-image">
-        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+        <img src="{{ page.image | relative_url }}" alt="{{ page.title }} - vegan AIP recipe">
     </div>
     {% endif %}
     
@@ -51,7 +52,6 @@ layout: default
         </section>
 
         <section class="recipe-instructions">
-            <h2>Instructions</h2>
             {{ content }}
         </section>
 

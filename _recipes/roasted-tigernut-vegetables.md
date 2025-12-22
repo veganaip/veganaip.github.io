@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Roasted Tigernut Vegetables"
+description: "Maple-glazed roasted root vegetables with tigernut oil and fresh rosemary. Simple AIP side dish for any meal."
 date: 2025-02-23
 image: /assets/images/recipes/roasted-tigernut-vegetables.jpg
 prep_time: 20
@@ -29,6 +30,14 @@ ingredients:
     amount: 2 sprigs
     notes: fresh
 tags: [root-vegetables, tigernut]
+instructions:
+  - Preheat oven to 400°F (200°C).
+  - In a large bowl, combine cubed sweet potatoes, carrots, and parsnips.
+  - Toss vegetables with tigernut oil and maple syrup (if using).
+  - Spread vegetables on a large baking sheet in a single layer.
+  - Sprinkle with sea salt and lay rosemary sprigs over vegetables.
+  - Roast for 35-40 minutes, stirring halfway through, until vegetables are tender and lightly caramelized.
+  - Remove rosemary sprigs before serving.
 foods:
   - sweet-potato
   - carrot

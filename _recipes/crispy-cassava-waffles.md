@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Crispy Cassava Waffles"
+description: "Crispy, fluffy AIP waffles made with cassava flour and coconut milk. Perfect weekend breakfast with berries and maple syrup."
 date: 2025-02-25
 image: /assets/images/recipes/crispy-cassava-waffles.jpg
 prep_time: 15
@@ -35,6 +36,16 @@ ingredients:
     amount: 1/2 cup
     notes: whipped, for serving
 tags: [waffles, breakfast, cassava]
+instructions:
+  - Preheat your waffle iron according to manufacturer's instructions.
+  - In a large bowl, whisk together cassava flour, arrowroot powder, salt, and cinnamon (if using).
+  - In a separate bowl, combine coconut milk, melted coconut oil, maple syrup, and vanilla extract.
+  - Pour the wet ingredients into the dry ingredients and whisk until smooth. Add more coconut milk if batter is too thick.
+  - Brush the preheated waffle iron with coconut oil. Pour about 1/3 cup of batter onto the center of the iron.
+  - Close the lid and cook until golden brown and crisp, about 4-5 minutes.
+  - Carefully remove the waffle and repeat with the remaining batter.
+  - Serve warm, topped with whipped coconut cream, fresh berries, and a drizzle of maple syrup.
+  - "Optional: Add sliced banana or a sprinkle of tigernuts for crunch."
 foods:
   - cassava
   - coconut

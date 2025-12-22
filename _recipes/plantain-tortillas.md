@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Plantain Tortillas"
+description: "Flexible AIP tortillas made with green plantains. Perfect for tacos, wraps, and as a side. Make-ahead friendly!"
 date: 2025-02-25
 image: /assets/images/recipes/plantain-tortillas.jpg
 prep_time: 15
@@ -26,6 +27,19 @@ ingredients:
     amount: 1 tbsp
     notes: for hands when pressing tortillas
 tags: [tortillas, bread, plantain]
+instructions:
+  - Peel the green plantains by making a shallow cut along the length, then removing the peel in sections.
+  - Cut the peeled plantains into 2-inch chunks and place in a food processor.
+  - Add melted coconut oil, sea salt, and lime zest (if using) to the food processor.
+  - Process until a smooth, thick dough forms. If using cassava flour, add and pulse to incorporate.
+  - Divide the dough into 8 equal portions and roll each into a ball.
+  - Heat a non-stick skillet over medium heat and add a small amount of coconut oil.
+  - Place a ball of dough between two pieces of parchment paper. Rub olive oil on your hands to prevent sticking.
+  - Using a tortilla press or flat-bottomed pan, press the dough into a thin 5-6 inch circle.
+  - Carefully peel off parchment and transfer tortilla to the hot skillet.
+  - Cook for 2-3 minutes on each side until golden brown with some darker spots.
+  - Repeat with remaining dough, adding oil to pan for each tortilla.
+  - Keep tortillas warm by wrapping in a clean kitchen towel until ready to serve.
 foods:
   - plantain
   - coconut

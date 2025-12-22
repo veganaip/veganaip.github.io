@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Tropical Green Smoothie"
+description: "Refreshing AIP green smoothie with mango, pineapple, banana, and spinach in creamy coconut milk. Perfect quick breakfast!"
 date: 2025-02-25
 image: /assets/images/recipes/tropical-green-smoothie.jpg
 prep_time: 10
@@ -35,6 +36,14 @@ ingredients:
     amount: 1 cup
     notes: optional, for a colder smoothie
 tags: [smoothie, breakfast, tropical]
+instructions:
+  - Place spinach, frozen banana, frozen mango, frozen pineapple, coconut milk, mint (if using), and ginger (if using) in a high-speed blender.
+  - Blend on high speed until smooth and creamy, about 30-60 seconds.
+  - Add coconut water as needed to achieve desired consistency.
+  - If using ice, add now and blend again until smooth.
+  - Pour into glasses and serve immediately.
+  - "Optional: Garnish with a pineapple wedge, shredded coconut, or a mint leaf."
+  - "For meal prep: Prepare smoothie packs by dividing dry ingredients into freezer bags. Add liquid when ready to blend."
 foods:
   - spinach
   - banana

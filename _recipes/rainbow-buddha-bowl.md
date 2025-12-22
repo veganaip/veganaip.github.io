@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Rainbow Buddha Bowl"
+description: "Colorful AIP buddha bowl with roasted root vegetables, fresh greens, avocado, and creamy tigernut dressing."
 date: 2025-02-25
 image: /assets/images/recipes/rainbow-buddha-bowl.jpg
 prep_time: 30
@@ -62,6 +63,17 @@ ingredients:
     amount: 1 tsp
     notes: optional
 tags: [bowl, rainbow, vegetables]
+instructions:
+  - Preheat oven to 400°F (200°C) and line a baking sheet with parchment paper.
+  - Place sweet potato and beet cubes on one side of the baking sheet, carrot sticks on the other.
+  - Drizzle with 1 tablespoon avocado oil and sprinkle with sea salt.
+  - Roast for 25-30 minutes until tender, removing carrots after about 20 minutes.
+  - While roasting, bring water to boil with a steamer basket. Steam cauliflower for 5 minutes.
+  - Add broccoli and steam for another 3-4 minutes. Rinse with cold water to stop cooking.
+  - "For sauce: Whisk together coconut cream, tigernut oil, lemon juice, minced garlic, and maple syrup. Thin with warm water as needed."
+  - Divide roasted vegetables, steamed vegetables, sliced red cabbage, cucumber, and avocado between two bowls.
+  - Drizzle with creamy tigernut sauce.
+  - Sprinkle with fresh herbs and sliced tigernuts. Serve immediately.
 foods:
   - sweet-potato
   - beet

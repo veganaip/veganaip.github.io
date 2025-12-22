@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Italian Herb Cassava Flatbread"
+description: "Crispy Italian-style AIP flatbread made with cassava flour and fresh herbs. Great as a side or pizza base."
 date: 2025-02-25
 image: /assets/images/recipes/cassava-flatbread.jpg
 prep_time: 15
@@ -31,6 +32,17 @@ ingredients:
     amount: 1 tsp
     notes: dried
 tags: [bread, flatbread, italian]
+instructions:
+  - Preheat oven to 400°F (200°C) and line a baking sheet with parchment paper.
+  - In a large bowl, combine cassava flour, salt, and dried herbs.
+  - Add olive oil and 3/4 cup warm water. Mix until a dough forms.
+  - If needed, add more water, one tablespoon at a time, until dough comes together but isn't sticky.
+  - Place dough on the lined baking sheet and press into a rectangular shape about 1/4 inch thick.
+  - Use a fork to poke holes across the surface of the dough.
+  - Brush the top with olive oil and sprinkle with minced garlic and a pinch of additional salt.
+  - Bake for 18-20 minutes until edges are golden and bread is cooked through.
+  - Allow to cool slightly before cutting into pieces.
+  - "Optional: For a crispier flatbread, place under the broiler for 1-2 minutes after baking."
 foods:
   - cassava
   - olive-oil

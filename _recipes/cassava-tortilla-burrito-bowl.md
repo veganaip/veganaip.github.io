@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Cassava Tortilla Burrito Bowl"
+description: "AIP Mexican-inspired burrito bowl with homemade cassava tortilla bowls, jackfruit carnitas, and cilantro-lime cauliflower rice."
 date: 2025-02-25
 image: /assets/images/recipes/cassava-tortilla-burrito-bowl.jpg
 prep_time: 30
@@ -64,6 +65,23 @@ ingredients:
     amount: 2 tbsp
     notes: for "guacamole"
 tags: [bowl, mexican, dinner]
+instructions:
+  - "For tortilla bowls: Whisk together cassava flour, arrowroot powder, and sea salt in a large bowl."
+  - Add warm water and olive oil, and mix until a smooth dough forms. Adjust water or flour as needed.
+  - Divide the dough into 4 equal parts and roll each into a ball.
+  - Heat a large, non-stick skillet over medium heat and add a small amount of olive oil.
+  - Place one ball between parchment paper and press or roll into an 8-inch circle.
+  - Cook for 2-3 minutes per side until lightly browned with some darker spots.
+  - While still warm, drape the tortilla over an inverted, oven-safe bowl and press to form a bowl shape. Bake at 300°F for 5-7 minutes to set.
+  - "For jackfruit carnitas: Drain and rinse the jackfruit, removing tough core pieces. Shred with two forks."
+  - Heat avocado oil in a skillet, add diced onion and sauté for 3-4 minutes until translucent.
+  - Add minced garlic and cook for another minute until fragrant.
+  - Add shredded jackfruit, oregano, cinnamon, and cumin (if using). Stir to combine.
+  - Cook for 5 minutes, then add coconut aminos and lime juice. Continue cooking for 10-15 minutes until tender.
+  - "For cauliflower rice: Heat olive oil, add riced cauliflower and sauté for 5-7 minutes until tender."
+  - Stir in cilantro, lime zest, and lime juice. Season with salt.
+  - "For guacamole: Mash avocados with a fork. Mix in red onion, cilantro, lime juice, and olive oil."
+  - "To assemble: Place tortilla bowl on plate, fill with cauliflower rice, top with carnitas and guacamole."
 foods:
   - cassava
   - jackfruit

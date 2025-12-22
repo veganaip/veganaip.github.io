@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Veggie-Packed Lettuce Wraps"
+description: "Asian-inspired AIP lettuce wraps with hearts of palm, mushrooms, and water chestnuts in a savory ginger-garlic sauce."
 date: 2025-02-25
 image: /assets/images/recipes/veggie-packed-lettuce-wraps.jpg
 prep_time: 25
@@ -53,6 +54,17 @@ ingredients:
     amount: 1 large
     notes: sliced, for serving
 tags: [wraps, asian-inspired, lunch]
+instructions:
+  - Drain hearts of palm and use two forks to shred into small, stringy pieces. Set aside.
+  - Heat avocado oil in a large skillet over medium heat. Add white parts of green onions, garlic, and ginger. Sauté for 1-2 minutes until fragrant.
+  - Add chopped mushrooms and cook for 3-4 minutes until they release their moisture.
+  - Add shredded hearts of palm, grated carrots, and diced water chestnuts. Cook for another 3-4 minutes.
+  - Whisk together coconut aminos, AIP fish sauce, maple syrup, and lime juice.
+  - Pour the sauce mixture over the vegetables and cook for 2 minutes until heated through and sauce has reduced.
+  - Remove from heat and stir in half the fresh herbs and green parts of scallions. Season with salt.
+  - Spoon filling into butter lettuce leaves, top with sliced avocado and remaining fresh herbs.
+  - "Optional: Serve with lime wedges for squeezing over the top."
+  - Fold the lettuce around the filling like a taco or roll up like a wrap.
 foods:
   - palm-hearts
   - mushroom

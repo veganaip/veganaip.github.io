@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Apple Cinnamon Breakfast Porridge"
+description: "Warming AIP breakfast porridge made with tigernut and coconut flour, topped with fresh apples and cinnamon. Tastes like apple pie!"
 date: 2025-02-25
 image: /assets/images/recipes/apple-cinnamon-breakfast-porridge.jpg
 prep_time: 10
@@ -35,6 +36,15 @@ ingredients:
     amount: 2 tbsp
     notes: sliced, for garnish
 tags: [breakfast, porridge, apple]
+instructions:
+  - In a small saucepan, combine tigernut flour, coconut flour, and salt, stirring with a whisk to remove any lumps.
+  - Gradually whisk in coconut milk and applesauce until smooth.
+  - Add cinnamon and maple syrup, and stir to combine.
+  - Heat the mixture over medium-low heat, stirring constantly to prevent lumps from forming.
+  - Cook for about 5-8 minutes, or until the porridge thickens to your desired consistency. If it gets too thick, add a splash more coconut milk.
+  - Remove from heat and let stand for 2 minutes to thicken further.
+  - Serve in bowls, topped with diced fresh apple, a drizzle of coconut oil, sliced tigernuts, and an extra sprinkle of cinnamon.
+  - "Optional: For additional sweetness, drizzle with a little extra maple syrup just before serving."
 foods:
   - tigernut
   - coconut

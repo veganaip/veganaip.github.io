@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Berry Coconut Crisp"
+description: "Warm bubbling berries under a crunchy coconut-tigernut AIP topping. Perfect summer dessert served with coconut cream."
 date: 2025-12-21
 image: /assets/images/recipes/berry-coconut-crisp.jpg
 prep_time: 15
@@ -37,6 +38,13 @@ ingredients:
   - id: sea_salt
     amount: pinch
 tags: [berries, crisp, coconut, summer, dessert]
+instructions:
+  - Preheat oven to 350°F (175°C).
+  - In a 9-inch baking dish, combine berries, maple syrup (3 tbsp), arrowroot, and lemon juice. Toss gently and spread evenly.
+  - In a bowl, combine coconut flakes, tigernut flour, chopped tigernuts, melted coconut oil, maple syrup (2 tbsp), cinnamon, and salt. Mix until crumbly.
+  - Scatter topping evenly over berries.
+  - Bake for 35-40 minutes until topping is golden brown and filling is bubbling at the edges.
+  - Let cool for 10 minutes before serving. Best served warm.
 foods:
   - berries
   - coconut

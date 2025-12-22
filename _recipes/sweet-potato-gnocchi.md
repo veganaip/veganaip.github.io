@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Sweet Potato Gnocchi with Sage"
+description: "Pillowy AIP gnocchi made with sweet potato and cassava flour, served in a sage-garlic sauce. Freezer-friendly!"
 date: 2025-02-25
 image: /assets/images/recipes/sweet-potato-gnocchi.jpg
 prep_time: 45
@@ -38,6 +39,19 @@ ingredients:
     amount: 2 tbsp
     notes: chopped (parsley or basil)
 tags: [pasta, italian, gnocchi]
+instructions:
+  - Preheat oven to 400°F (200°C). Prick sweet potatoes with a fork, place on baking sheet, and bake for 45-60 minutes until very tender.
+  - Allow sweet potatoes to cool slightly, then peel and mash the flesh until smooth.
+  - Mix 1 1/2 cups cassava flour, arrowroot powder, and 1/2 teaspoon salt.
+  - Add flour mixture to mashed sweet potatoes and mix until a soft dough forms. Add more flour if too sticky.
+  - Divide dough into 4 portions and roll each into a rope about 3/4 inch thick. Cut into 1-inch pieces.
+  - "Optional: Roll each piece along fork tines to create traditional gnocchi ridges."
+  - Bring a large pot of salted water to a boil.
+  - Heat 3 tablespoons olive oil in a skillet. Add garlic and sauté 1 minute, then add sage and cook 30 seconds more.
+  - Add coconut cream to skillet and keep warm on low heat.
+  - Gently add gnocchi to boiling water in batches. Cook until they float, about 2-3 minutes.
+  - Remove gnocchi with slotted spoon and add directly to sauce. Toss gently to coat.
+  - Sprinkle with nutritional yeast (if using), salt, and fresh herbs. Serve immediately.
 foods:
   - sweet-potato
   - cassava

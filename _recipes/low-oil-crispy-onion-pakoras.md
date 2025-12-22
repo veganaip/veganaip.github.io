@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Low-Oil Crispy Onion Pakoras"
+description: "Crispy Indian-style AIP onion pakoras with singoda flour, shallow-fried with minimal oil. Perfect teatime snack!"
 date: 2025-02-28
 image: /assets/images/recipes/crispy-onion-pakoras.jpg
 prep_time: 20
@@ -13,9 +14,9 @@ ingredients:
     notes: thinly sliced
   - id: singoda_flour
     amount: 1 cup
-  - id: arrowroot_starch
+  - id: arrowroot_powder
     amount: 2 tbsp
-  - id: turmeric
+  - id: turmeric_powder
     amount: 1 tsp
   - id: sea_salt
     amount: 1 tsp
@@ -35,6 +36,16 @@ ingredients:
   - id: coconut_oil
     amount: 3-4 tbsp
     notes: for shallow frying
+instructions:
+  - Thinly slice onions and soak in cold water for 10 minutes. Drain thoroughly and pat dry with paper towels.
+  - In a bowl, mix singoda flour, arrowroot starch, turmeric, sea salt, garlic powder, and ginger powder.
+  - Add apple cider vinegar and just enough cold water (6-7 tablespoons) to make a very thick, almost dough-like batter.
+  - Fold in the onion slices and cilantro, ensuring they're well coated.
+  - Heat 3-4 tablespoons of coconut oil in a heavy-bottomed skillet over medium heat.
+  - Drop 2-tablespoon portions of the mixture into the pan, slightly flattening with the back of the spoon.
+  - Cook for 3-4 minutes per side until deep golden brown and crispy.
+  - Drain on paper towels and serve hot.
+  - "For baked version: Bake at 425°F on an oiled parchment-lined sheet for 15 minutes, flip, then bake another 10-12 minutes."
 ---
 
 These crispy onion pakoras use a thick batter method with minimal oil for a healthier version of the classic Indian snack. Perfect for tea time or as an appetizer.

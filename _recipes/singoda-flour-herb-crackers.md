@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Singoda Flour Herb Crackers"
+description: "Crispy AIP crackers made with singoda flour and fresh herbs. Simple grain-free snack perfect with dips."
 date: 2025-02-28
 image: /assets/images/recipes/singoda-herb-crackers.jpg
 prep_time: 15
@@ -17,9 +18,18 @@ ingredients:
     notes: warm
   - id: sea_salt
     amount: 1/2 tsp
-  - id: herbs
+  - id: fresh_herbs
     amount: 1 tbsp
     notes: fresh rosemary, thyme, or sage
+instructions:
+  - Preheat oven to 325°F (165°C) and line a baking sheet with parchment paper.
+  - In a mixing bowl, combine singoda flour and sea salt.
+  - Add olive oil and warm water to the flour mixture. Mix until a stiff dough forms.
+  - Finely chop your chosen fresh herbs and fold into the dough.
+  - Place dough between two sheets of parchment paper and roll out as thin as possible (about 1/8 inch thick).
+  - Remove top parchment and use a knife or pizza cutter to score the dough into 1-2 inch squares.
+  - Bake for 15-20 minutes until edges are golden and crackers are crisp.
+  - Allow to cool completely on the baking sheet before breaking apart along score lines.
 ---
 
 Mix ingredients to form a stiff dough. Roll thin between parchment paper, score into squares, and bake at 325°F for 15-20 minutes until crisp.

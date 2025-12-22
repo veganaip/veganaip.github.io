@@ -1,6 +1,7 @@
 ---
 layout: default
 title: AIP Ingredient Guide
+description: "Complete guide to AIP-compliant ingredients: flours, milks, fats, and substitutes for vegan Autoimmune Protocol cooking."
 ---
 
 # AIP Ingredient Guide

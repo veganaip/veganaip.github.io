@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "AIP Bread Machine Loaf (Doubled Recipe)"
+description: "Large AIP sandwich bread made in a bread machine with cassava, tigernut, and tapioca flours. Perfect for toast and sandwiches."
 date: 2025-02-28
 image: /assets/images/recipes/aip-bread-machine-loaf.jpg
 prep_time: 10
@@ -12,7 +13,7 @@ ingredients:
     amount: 1 1/2 cups
   - id: tigernut_flour
     amount: 1 cup
-  - id: tapioca_starch
+  - id: manioc_starch
     amount: 2 cups
   - id: coconut_flour
     amount: 4 tbsp
@@ -42,6 +43,16 @@ ingredients:
   - id: water
     amount: 2 2/3 cups
     notes: warm (105-110°F)
+instructions:
+  - "Check water temperature: Ensure water is 105-110°F (40-43°C) for optimal yeast activation."
+  - Add wet ingredients first to bread machine pan - warm water, apple cider vinegar, olive oil, blackstrap molasses, and maple syrup.
+  - Mix dry ingredients separately in a bowl - cassava flour, tigernut flour, tapioca starch, coconut flour, arrowroot powder, salt, baking soda, thyme, and cinnamon.
+  - Add dry mixture on top of wet ingredients in the bread machine.
+  - Create a shallow well in the center of dry ingredients for the yeast, keeping it away from salt and vinegar.
+  - Select normal cycle on your bread machine (not quick cycle) for better rise and texture.
+  - "During first 5-10 minutes of mixing, check that dough resembles thick cake batter. Add water or cassava flour as needed."
+  - Let the bread machine complete its full cycle.
+  - Cool completely before slicing. Store in airtight container for up to 3 days.
 ---
 
 This doubled recipe creates a larger, well-risen loaf perfect for sandwiches and toast. Using the normal cycle instead of quick baking allows for better fermentation and rise.

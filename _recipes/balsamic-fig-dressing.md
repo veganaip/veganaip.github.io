@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Balsamic Fig Dressing"
+description: "Rich, sweet-tart AIP salad dressing made with dried figs and balsamic vinegar. Perfect for salads and roasted vegetables."
 date: 2025-02-25
 image: /assets/images/recipes/balsamic-fig-dressing.jpg
 prep_time: 15
@@ -34,6 +35,20 @@ ingredients:
     amount: 1 tbsp
     notes: optional, for extra sweetness
 tags: [dressing, fig, salad]
+instructions:
+  - Place dried figs in a small bowl and cover with hot water. Let soak for 10 minutes to soften.
+  - Drain the figs, reserving the soaking water.
+  - In a small saucepan, combine the soaked figs, 2 tablespoons of the soaking water, and balsamic vinegar.
+  - Bring to a simmer over medium-low heat and cook for about 5 minutes, until the figs have softened further and the mixture is slightly reduced.
+  - Remove from heat and let cool slightly.
+  - Transfer the fig mixture to a blender or food processor. Add minced shallot, garlic, dried thyme, and sea salt.
+  - Blend until smooth, about 30-60 seconds.
+  - With the blender running on low speed, slowly drizzle in the olive oil until fully incorporated and emulsified.
+  - Taste and adjust seasoning, adding maple syrup if desired for additional sweetness.
+  - If the dressing is too thick, add 1-2 tablespoons of the reserved fig soaking water or plain water to reach desired consistency.
+  - Transfer to a glass jar or bottle with a tight-fitting lid.
+  - Store in the refrigerator for up to 10 days. Bring to room temperature and shake well before using.
+  - Serve over salads, roasted vegetables, or as a marinade for grilled vegetables.
 foods:
   - fig
   - olive-oil

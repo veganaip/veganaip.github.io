@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Tigernut Granola"
+description: "Crunchy grain-free AIP granola with tigernuts, coconut, and dried fruit. Perfect with coconut yogurt or as a snack."
 date: 2025-02-25
 image: /assets/images/recipes/tigernut-granola.jpg
 prep_time: 15
@@ -39,6 +40,17 @@ ingredients:
     amount: 1/2 tsp
     notes: optional
 tags: [granola, breakfast, snack]
+instructions:
+  - Preheat oven to 325°F (165°C) and line a large baking sheet with parchment paper.
+  - In a large bowl, combine tigernuts and coconut flakes.
+  - In a small saucepan over low heat, warm coconut oil and maple syrup until melted. Remove from heat and stir in cinnamon, ginger powder (if using), sea salt, and vanilla extract.
+  - Pour the liquid mixture over the dry ingredients and stir thoroughly to coat evenly.
+  - Spread the mixture in an even layer on the prepared baking sheet.
+  - Bake for 20-25 minutes, stirring halfway through, until golden brown and fragrant.
+  - Remove from oven and let cool completely on the baking sheet (it will crisp up as it cools).
+  - Once cooled, mix in dried cranberries, chopped apricots, and banana chips.
+  - Store in an airtight container at room temperature for up to 2 weeks.
+  - "Optional: Add other AIP-compliant mix-ins like dried blueberries or mango for variety."
 foods:
   - tigernut
   - coconut

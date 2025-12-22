@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Mexican Jackfruit Carnitas Tacos"
+description: "Savory AIP-friendly jackfruit carnitas with homemade plantain tortillas. Perfect vegan Mexican taco night!"
 date: 2025-02-25
 image: /assets/images/recipes/jackfruit-carnitas.jpg
 prep_time: 20
@@ -46,6 +47,19 @@ ingredients:
     amount: 2 tbsp
     notes: for tortillas
 tags: [mexican, tacos, jackfruit]
+instructions:
+  - Drain and rinse the jackfruit. Remove any hard core pieces and pull into shreds with your fingers or two forks.
+  - Heat coconut oil in a large skillet over medium heat. Add onions and sauté for 3-4 minutes until softened.
+  - Add garlic and cook for 1 minute until fragrant.
+  - Add the shredded jackfruit, oregano, cinnamon, and salt. Stir to combine.
+  - Cook for 5 minutes, stirring occasionally.
+  - Add 1/4 cup water, cover, and reduce heat to low. Simmer for 20 minutes, stirring occasionally.
+  - Remove lid and continue cooking for 10 more minutes until jackfruit is tender and most liquid has evaporated.
+  - Add lime juice and stir. Turn heat to high and cook for 2-3 minutes for caramelization.
+  - "For plantain tortillas: Peel green plantains and cut into chunks. Process in food processor with water, coconut oil, and salt until smooth."
+  - Divide into 8 portions and roll into balls. Flatten between parchment paper into 6-inch circles.
+  - Cook tortillas in a non-stick skillet for 2-3 minutes per side until cooked through with brown spots.
+  - Fill each tortilla with jackfruit carnitas, top with avocado, cilantro, and green onions. Serve with lime wedges.
 foods:
   - jackfruit
   - plantain
