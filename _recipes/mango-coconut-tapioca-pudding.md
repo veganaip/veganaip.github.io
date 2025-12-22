@@ -32,6 +32,16 @@ ingredients:
     amount: 2 tbsp
     notes: toasted, for garnish
 tags: [pudding, tapioca, mango, coconut, tropical, dessert]
+instructions:
+  - In a medium saucepan, combine tapioca pearls with 2 cups of water. Let soak for 30 minutes.
+  - Bring tapioca and soaking water to a boil over medium heat, stirring frequently.
+  - Reduce heat and simmer for 10-12 minutes, stirring often, until tapioca pearls are mostly translucent.
+  - Stir in coconut milk, maple syrup, and salt. Continue cooking for 5-8 minutes until mixture thickens.
+  - Remove from heat and stir in vanilla, lime juice, and half the lime zest.
+  - In a blender, puree 1.5 cups of the mango until smooth. Dice remaining mango for topping.
+  - Fold mango puree into the tapioca mixture, creating swirls of orange throughout.
+  - Serve warm or refrigerate for at least 2 hours to chill.
+  - Top with diced mango, toasted coconut flakes, and remaining lime zest before serving.
 foods:
   - mango
   - coconut

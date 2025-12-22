@@ -11,6 +11,9 @@
     {% if page.url == '/' %}
     {% include organization-schema.html %}
     {% endif %}
+    {% if page.faqs %}
+    {% include faq-schema.html %}
+    {% endif %}
 </head>
 <body>
     <header class="site-header">

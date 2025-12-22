@@ -35,6 +35,17 @@ ingredients:
   - id: sea_salt
     amount: 1 tsp
 tags: [vegetables, roasted, simple, side dish, weeknight]
+instructions:
+  - Preheat oven to 425°F (220°C). Line a large baking sheet with parchment paper.
+  - Cut sweet potatoes into 1-inch cubes. Slice zucchini into half-moons. Cut carrots into rounds. Cut red onion into wedges.
+  - Smash garlic cloves with the flat side of a knife.
+  - Spread all vegetables on the prepared baking sheet in a single layer.
+  - Drizzle with olive oil and toss to coat evenly.
+  - Sprinkle with rosemary, thyme, and sea salt. Toss again.
+  - Roast for 20 minutes.
+  - Stir vegetables and spread back into a single layer.
+  - Roast for another 15 minutes until edges are golden and vegetables are tender.
+  - Taste and adjust salt if needed. Serve warm.
 foods:
   - sweet potato
   - zucchini

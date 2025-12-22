@@ -2,6 +2,17 @@
 layout: default
 title: Tips for Vegan AIP Success
 description: "22 practical tips for succeeding on the vegan AIP diet, from meal prep strategies to handling social situations."
+faqs:
+  - question: "How should I prepare for starting vegan AIP?"
+    answer: "Stock your pantry with essential AIP ingredients (cassava flour, coconut products, approved oils and spices), plan 5-7 days of meals before starting, clear out non-AIP foods to reduce temptation, and tell your support system what you're doing and why."
+  - question: "How much should I eat on vegan AIP?"
+    answer: "Eat enough! Without grains, legumes, and concentrated proteins, you need to eat larger volumes of food. If you're hungry all the time, increase portions significantly. This is one of the biggest mistakes people make on AIP."
+  - question: "How do I handle social situations on AIP?"
+    answer: "Eat a satisfying meal before events so you can participate socially without food stress. Bring your own dish to gatherings. Keep explanations simple - 'I'm doing an elimination diet for health reasons' is usually sufficient."
+  - question: "What if I accidentally eat something non-AIP?"
+    answer: "Don't spiral into guilt or give up entirely. Note how you feel over the next 24-72 hours, learn from what led to the slip, and return to AIP at your next meal. One slip doesn't erase your progress - the overall pattern matters more than any single moment."
+  - question: "How do I stay motivated on AIP?"
+    answer: "Write down why you started and post it somewhere visible. Track non-food wins like improved energy, sleep, and digestion. Connect with online AIP communities. Remember this is temporary - after 30-90 days, you'll begin reintroducing foods."
 ---
 
 # Tips for Vegan AIP Success

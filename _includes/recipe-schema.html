@@ -30,19 +30,12 @@
     {%- endfor -%}
   ],
   "recipeInstructions": [
-    {%- assign steps = content | strip_html | newline_to_br | split: '<br />' -%}
-    {%- assign step_number = 0 -%}
-    {%- for step in steps -%}
-    {%- assign clean_step = step | strip -%}
-    {%- if clean_step.size > 10 and clean_step contains '. ' -%}
-    {%- assign step_number = step_number | plus: 1 -%}
-    {%- assign step_text = clean_step | split: '. ' | shift | join: '. ' -%}
+    {%- for step in page.instructions -%}
     {
       "@type": "HowToStep",
-      "position": {{ step_number }},
-      "text": "{{ step_text | default: clean_step | escape }}"
+      "position": {{ forloop.index }},
+      "text": "{{ step | escape }}"
     }{% unless forloop.last %},{% endunless %}
-    {%- endif -%}
     {%- endfor -%}
   ]
 }

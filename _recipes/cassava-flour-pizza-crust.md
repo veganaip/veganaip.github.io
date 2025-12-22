@@ -36,6 +36,19 @@ ingredients:
     amount: 1 tbsp
     notes: additional, for better texture
 tags: [pizza, italian, bread]
+instructions:
+  - Preheat oven to 425°F (220°C) and line a baking sheet with parchment paper.
+  - In a large bowl, whisk together cassava flour, arrowroot powder, garlic powder, dried oregano, salt, and nutritional yeast (if using).
+  - Set aside 1/4 cup of warm water and whisk in extra arrowroot powder until dissolved.
+  - Add olive oil, remaining warm water, apple cider vinegar, and arrowroot mixture to dry ingredients.
+  - Mix until a dough forms. The dough should be pliable but not sticky; adjust water or flour as needed.
+  - Place dough on parchment-lined baking sheet and cover with another piece of parchment.
+  - Using hands or rolling pin, press or roll the dough into a circle about 1/4 inch thick.
+  - Remove top parchment and shape edges to form a slight rim.
+  - Brush the entire crust with olive oil.
+  - Par-bake for 10-12 minutes until edges start to turn golden.
+  - Remove from oven, add AIP-compliant toppings, and return to oven for 8-10 minutes until toppings are cooked and crust is golden.
+  - Allow to cool slightly before slicing to ensure crust sets properly.
 foods:
   - cassava
   - arrowroot

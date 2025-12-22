@@ -2,6 +2,19 @@
 layout: default
 title: What is AIP?
 description: "Understand the Autoimmune Protocol (AIP) diet: how it works, what foods to eliminate and emphasize, and the research behind this healing approach."
+faqs:
+  - question: "What is the Autoimmune Protocol (AIP)?"
+    answer: "The Autoimmune Protocol (AIP) is a science-based elimination and reintroduction diet designed to reduce inflammation, support gut healing, and help manage autoimmune disease symptoms. It eliminates grains, legumes, dairy, nightshades, eggs, nuts, seeds, processed foods, alcohol, and coffee during the elimination phase."
+  - question: "How does AIP work?"
+    answer: "AIP works by removing inflammatory food triggers, supporting gut healing through nutrient-dense foods, and reducing overall inflammation. Research suggests about 70-75% of the immune system is in the gut, so healing the intestinal barrier is central to the approach."
+  - question: "What foods are eliminated on AIP?"
+    answer: "AIP eliminates grains, legumes, dairy, nightshades (tomatoes, peppers, potatoes, eggplant), eggs, nuts and seeds (including seed-based spices), processed foods, refined sugars, alcohol, and coffee."
+  - question: "How long does the AIP elimination phase last?"
+    answer: "The elimination phase typically lasts 30-90 days. After symptoms improve, foods are systematically reintroduced one at a time to identify individual triggers, creating a personalized long-term diet."
+  - question: "What does the research say about AIP?"
+    answer: "Studies show promising results for AIP with inflammatory bowel disease, Hashimoto's thyroiditis, and multiple sclerosis, with improvements in inflammatory markers, quality of life, and symptoms. However, more large-scale, long-term studies are needed."
+  - question: "Is AIP right for me?"
+    answer: "AIP may be right if you have an autoimmune condition, experience chronic inflammation or digestive issues, haven't found relief through conventional treatments alone, and are willing to commit to significant dietary change. Consult a healthcare provider before starting."
 ---
 
 # What is the Autoimmune Protocol (AIP)?

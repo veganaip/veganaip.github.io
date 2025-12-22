@@ -32,6 +32,15 @@ ingredients:
     amount: 2
     notes: roughly chopped
 tags: [dressing, salad, avocado]
+instructions:
+  - Cut avocados in half, remove the pits, and scoop the flesh into a blender or food processor.
+  - Add lime juice, olive oil, cilantro, garlic, apple cider vinegar, green onions, and a pinch of sea salt.
+  - Blend until smooth and creamy, stopping to scrape down the sides as needed.
+  - With the blender running, slowly add coconut milk until desired consistency is reached.
+  - Taste and adjust seasoning, adding more salt or lime juice if needed.
+  - Transfer to a glass jar or container with a tight-fitting lid.
+  - Refrigerate for at least 30 minutes before serving to allow flavors to meld.
+  - "Optional: Add a pinch of garlic powder for extra flavor."
 foods:
   - avocado
   - lime

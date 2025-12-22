@@ -34,6 +34,15 @@ ingredients:
     amount: 1 tbsp
     notes: chopped (parsley, mint, or basil)
 tags: [dip, mediterranean, appetizer]
+instructions:
+  - Peel and roughly chop the zucchini.
+  - In a food processor or blender, combine zucchini, garlic, olive oil, lemon juice, salt, turmeric, and garlic powder.
+  - Process until completely smooth, stopping to scrape down the sides as needed.
+  - Taste and adjust seasoning if necessary.
+  - Transfer to a serving bowl and chill for at least 30 minutes to allow flavors to develop.
+  - Before serving, drizzle with olive oil and sprinkle with fresh herbs.
+  - Serve with vegetable sticks like carrot, cucumber, or celery for dipping.
+  - "Optional: For a thicker consistency, squeeze excess moisture from zucchini before processing."
 foods:
   - zucchini
   - garlic

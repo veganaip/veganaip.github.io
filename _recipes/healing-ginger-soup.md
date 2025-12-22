@@ -28,6 +28,13 @@ ingredients:
     amount: 1 inch
     notes: fresh, peeled and minced
 tags: [coconut, root-vegetables]
+instructions:
+  - In a large pot, combine coconut milk and vegetable broth over medium heat.
+  - Add minced ginger and turmeric, stirring well to combine.
+  - Add chopped carrots and sweet potato. Bring to a gentle boil.
+  - Reduce heat, cover, and simmer for 20-25 minutes until vegetables are tender.
+  - Season with sea salt to taste.
+  - "Optional: Use an immersion blender to partially blend the soup while leaving some chunks for texture."
 foods:
   - coconut
   - ginger

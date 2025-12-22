@@ -2,6 +2,17 @@
 layout: default
 title: "What to Expect: AIP Flavors & Textures"
 description: "What to expect when starting vegan AIP: realistic expectations for bread, cheese, pasta, and dessert alternatives on the Autoimmune Protocol."
+faqs:
+  - question: "What does AIP bread taste like?"
+    answer: "AIP bread made from cassava, tigernut, and coconut flours will be denser and more earthy than wheat bread, often with coconut undertones. It won't toast the same way and may crumble more easily. Think of it as its own food category rather than a perfect replacement."
+  - question: "Can I have cheese on AIP?"
+    answer: "Dairy cheese is eliminated on AIP. AIP 'cheese' sauces are made from coconut cream and nutritional yeast (if tolerated). They won't stretch or melt like dairy but can provide creaminess and savory flavor. Think of them as creamy, savory toppings rather than cheese replacements."
+  - question: "What pasta alternatives work on AIP?"
+    answer: "AIP pasta options include spiralized vegetables (zucchini noodles), hearts of palm noodles (surprisingly pasta-like texture), and spaghetti squash. These have different textures than wheat pasta and work best with lighter sauces. Don't overcook vegetable noodles to maintain texture."
+  - question: "How do AIP desserts taste?"
+    answer: "AIP desserts use maple syrup, coconut sugar, dates, and fruit instead of refined sugar. Carob powder replaces chocolate - it's caffeine-free with its own rich, slightly sweet, earthy flavor. AIP desserts can be genuinely delicious but require recalibrating your palate."
+  - question: "How long does it take to adjust to AIP flavors?"
+    answer: "After 2-3 weeks on AIP, most people notice subtle flavors more intensely. Vegetables taste sweeter, fruits taste more complex. Give new recipes 2-3 tries before deciding you don't like them, as your palate needs time to adjust."
 ---
 
 # What to Expect: AIP Flavors & Textures

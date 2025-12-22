@@ -2,6 +2,15 @@
 layout: default
 title: Getting Started with Vegan AIP
 description: "New to vegan AIP? Start here with our beginner's guide to the Autoimmune Protocol diet, including what to eat, what to avoid, and how to succeed."
+faqs:
+  - question: "What makes vegan AIP challenging?"
+    answer: "Vegan AIP is one of the most restrictive dietary approaches because it eliminates all grains, legumes, nuts, seeds, eggs, and nightshades while also excluding animal products. Protein sources are limited to coconut products, tigernuts (root vegetables, not nuts), and small amounts from vegetables."
+  - question: "What can I eat on vegan AIP?"
+    answer: "On vegan AIP you can eat all vegetables except nightshades, fruits in moderation, coconut products (milk, oil, flour, aminos), tigernut products, cassava and arrowroot flours, healthy oils (olive, avocado, coconut), fresh and dried herbs, and non-seed spices like turmeric, ginger, and cinnamon."
+  - question: "Is vegan AIP worth the effort?"
+    answer: "Many people with autoimmune conditions report significant improvements in energy levels, digestive comfort, joint pain and inflammation, skin conditions, and mental clarity. The elimination phase typically lasts 30-90 days, after which you can systematically reintroduce foods."
+  - question: "How long does the vegan AIP elimination phase last?"
+    answer: "The elimination phase typically lasts 30-90 days. After this period, you can begin systematically reintroducing foods to identify your personal triggers and create a sustainable long-term diet."
 ---
 
 # Getting Started with Vegan AIP

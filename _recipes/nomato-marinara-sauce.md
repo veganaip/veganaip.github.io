@@ -46,6 +46,18 @@ ingredients:
     amount: 1/4 cup
     notes: chopped, for garnish
 tags: [sauce, italian, tomato-free]
+instructions:
+  - Heat olive oil in a large pot over medium heat. Add onions and sauté for 3-4 minutes until translucent.
+  - Add garlic and cook for another minute until fragrant.
+  - Add beets, carrots, and sweet potato. Stir to coat with oil.
+  - Pour in vegetable broth and bring to a boil. Reduce heat, cover, and simmer for 25-30 minutes until vegetables are very tender.
+  - Add dried herbs and simmer for 5 more minutes.
+  - Remove from heat and let cool slightly.
+  - Transfer to a blender and puree until completely smooth. Be careful with hot liquids.
+  - Return sauce to pot and add apple cider vinegar. Simmer for another 5-10 minutes.
+  - Season with sea salt to taste.
+  - Serve hot, garnished with fresh basil.
+  - "Optional: Strain through a fine mesh sieve for a smoother sauce."
 foods:
   - beet
   - carrot

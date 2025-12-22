@@ -51,6 +51,17 @@ ingredients:
     amount: 1
     notes: cut into wedges, for serving
 tags: [indian, kitchari, turmeric]
+instructions:
+  - Heat coconut oil in a large pot over medium heat. Add onions and sauté for 3-4 minutes until translucent.
+  - Add garlic, ginger, and turmeric. Cook for 1-2 minutes until fragrant.
+  - Add sweet potatoes, carrots, and zucchini. Stir to coat in the spices and oil.
+  - Pour in vegetable broth and bring to a simmer. Cook covered for 10 minutes.
+  - Add cauliflower rice and cinnamon. Stir to combine.
+  - Cook for another 5 minutes until cauliflower begins to soften.
+  - Add coconut milk and simmer for 10 minutes until vegetables are tender.
+  - Season with sea salt to taste.
+  - Serve hot, garnished with fresh cilantro and lime wedges on the side.
+  - "Optional: For extra creaminess, stir in additional 1/4 cup of coconut milk just before serving."
 foods:
   - cauliflower
   - sweet-potato

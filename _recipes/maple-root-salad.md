@@ -46,6 +46,17 @@ ingredients:
     amount: 1/4 cup
     notes: sliced, for garnish
 tags: [salad, fall, root-vegetables]
+instructions:
+  - Preheat oven to 400°F (200°C).
+  - In a large bowl, combine sweet potatoes, beets, carrots, and parsnips.
+  - Whisk together 3 tablespoons olive oil, maple syrup, cinnamon, and 1/2 teaspoon sea salt.
+  - Pour the maple mixture over the vegetables and toss to coat evenly.
+  - Spread vegetables in a single layer on two large baking sheets, ensuring they're not overcrowded.
+  - Roast for 25-30 minutes, stirring halfway through, until vegetables are tender and caramelized.
+  - Place torn kale in a large bowl with 1 tablespoon olive oil and a pinch of salt. Massage for 2-3 minutes until softened.
+  - Whisk together remaining olive oil, apple cider vinegar, minced garlic, and 1/4 teaspoon sea salt for dressing.
+  - Combine roasted vegetables with the kale and pour dressing over. Toss gently.
+  - Sprinkle with fresh herbs and sliced tigernuts. Serve warm or at room temperature.
 foods:
   - sweet-potato
   - beet

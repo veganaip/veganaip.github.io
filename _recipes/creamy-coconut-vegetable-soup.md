@@ -41,6 +41,16 @@ ingredients:
     amount: 2 tbsp
     notes: chopped, for garnish
 tags: [soup, coconut, vegetables, comforting, easy]
+instructions:
+  - Heat coconut oil in a large pot over medium heat.
+  - Add diced onion and cook for 5 minutes until softened.
+  - Add garlic and grated ginger. Stir for 1 minute until fragrant.
+  - Add carrots, sweet potato, and cauliflower to the pot.
+  - Pour in vegetable broth. Add turmeric and salt.
+  - Bring to a boil, then reduce heat to medium-low.
+  - Cover and simmer for 20 minutes until vegetables are tender.
+  - Stir in coconut milk and heat through for 2-3 minutes.
+  - Taste and adjust salt if needed. Ladle into bowls and garnish with fresh parsley.
 foods:
   - coconut
   - sweet potato

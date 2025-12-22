@@ -55,6 +55,17 @@ ingredients:
     amount: 1 tsp 
     notes: optional
 tags: [salad, bowl, sweet-potato]
+instructions:
+  - Preheat oven to 400°F (200°C) and line a baking sheet with parchment paper.
+  - Finely chop the tigernuts until they resemble coarse breadcrumbs.
+  - Mix together chopped tigernuts, arrowroot powder, dried oregano, dried thyme, garlic powder, and sea salt.
+  - Toss sweet potato cubes with 1 tablespoon avocado oil, then dredge in the tigernut mixture.
+  - Place coated sweet potato cubes on baking sheet and drizzle with 1 more tablespoon avocado oil.
+  - Bake for 20-25 minutes, flipping halfway through, until tender and golden brown.
+  - "For dressing: Whisk together olive oil, lemon juice, minced herbs, and maple syrup (if using)."
+  - Divide mixed greens between serving bowls.
+  - Arrange cucumber, radishes, red onion, and avocado slices over the greens.
+  - Top with the crispy sweet potatoes and drizzle with lemon herb dressing.
 foods:
   - sweet-potato
   - tigernut

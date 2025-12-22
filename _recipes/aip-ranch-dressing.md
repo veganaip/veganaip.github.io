@@ -34,6 +34,16 @@ ingredients:
     amount: 1 tbsp
     notes: optional - some AIP practitioners allow during elimination, others recommend waiting for reintroduction
 tags: [dressing, ranch, salad]
+instructions:
+  - Place your can of coconut milk in the refrigerator overnight to allow the cream to separate and solidify.
+  - Open the can and scoop out the thick coconut cream from the top (about 1 cup), leaving the watery liquid behind.
+  - In a blender or food processor, combine coconut cream, olive oil, apple cider vinegar, lemon juice, garlic, onion powder, dried dill, dried parsley, sea salt, and nutritional yeast (if using).
+  - Blend until completely smooth and creamy, about 30-60 seconds.
+  - Taste and adjust seasonings if needed, adding more salt, herbs, or lemon juice to taste.
+  - Transfer to a glass jar or airtight container.
+  - Refrigerate for at least 1 hour before serving to allow flavors to meld.
+  - If too thick after refrigeration, thin with 1-2 tablespoons of cold water and whisk.
+  - Store in the refrigerator for up to 5 days. Shake or stir well before using.
 foods:
   - coconut
   - olive-oil
