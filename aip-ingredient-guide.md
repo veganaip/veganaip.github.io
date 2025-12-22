@@ -204,12 +204,6 @@ Raw, unfiltered with "the mother" is preferred for maximum health benefits.
 {% assign acv = site.data.ingredients.apple_cider_vinegar %}
 {% if acv.link and acv.link != "" %}<a href="{{ acv.link }}" target="_blank" rel="nofollow">Shop apple cider vinegar on Amazon</a>{% endif %}
 
-### Dates
-Medjool dates are preferred for their soft texture and rich sweetness. Great natural sweetener.
-
-{% assign dates = site.data.ingredients.dates %}
-{% if dates.link and dates.link != "" %}<a href="{{ dates.link }}" target="_blank" rel="nofollow">Shop medjool dates on Amazon</a>{% endif %}
-
 ### Coconut Flakes
 Look for unsweetened varieties. Great for granola, baking, and toppings.
 
@@ -222,17 +216,31 @@ Adds a cheesy, savory flavor to dishes. Great for sauces and seasonings.
 {% assign nooch = site.data.ingredients.nutritional_yeast %}
 {% if nooch.link and nooch.link != "" %}<a href="{{ nooch.link }}" target="_blank" rel="nofollow">Shop nutritional yeast on Amazon</a>{% endif %}
 
-### Dried Lavender
-Culinary-grade only. Adds floral notes to baked goods and beverages.
+## Specialty Dried Fruits & Pantry Items
 
-{% assign lavender = site.data.ingredients.dried_lavender %}
-{% if lavender.link and lavender.link != "" %}<a href="{{ lavender.link }}" target="_blank" rel="nofollow">Shop culinary lavender on Amazon</a>{% endif %}
+### Dried Figs
+Naturally sweet and chewy. Look for unsulfured varieties for AIP compliance.
 
-### Pomegranate Molasses
-Tangy, sweet syrup used in Middle Eastern cooking. Check labels for AIP compliance.
+{% assign figs = site.data.ingredients.figs %}
+{% if figs.link and figs.link != "" and figs.link != "TODO_ADD_AFFILIATE_LINK" %}<a href="{{ figs.link }}" target="_blank" rel="nofollow">Shop dried figs on Amazon</a>{% endif %}
 
-{% assign pom = site.data.ingredients.pomegranate_molasses %}
-{% if pom.link and pom.link != "" %}<a href="{{ pom.link }}" target="_blank" rel="nofollow">Shop pomegranate molasses on Amazon</a>{% endif %}
+### Dried Cranberries
+Look for unsweetened or apple juice sweetened varieties - most commercial brands contain added sugar.
+
+{% assign cranberries = site.data.ingredients.dried_cranberries %}
+{% if cranberries.link and cranberries.link != "" and cranberries.link != "TODO_ADD_AFFILIATE_LINK" %}<a href="{{ cranberries.link }}" target="_blank" rel="nofollow">Shop unsweetened dried cranberries on Amazon</a>{% endif %}
+
+### Dried Apricots
+Choose unsulfured, organic varieties. Sulfured apricots are bright orange; unsulfured are darker brown.
+
+{% assign apricots = site.data.ingredients.dried_apricots %}
+{% if apricots.link and apricots.link != "" and apricots.link != "TODO_ADD_AFFILIATE_LINK" %}<a href="{{ apricots.link }}" target="_blank" rel="nofollow">Shop unsulfured dried apricots on Amazon</a>{% endif %}
+
+### Balsamic Vinegar
+Check labels for AIP compliance - some brands contain caramel coloring or sulfites.
+
+{% assign balsamic = site.data.ingredients.balsamic_vinegar %}
+{% if balsamic.link and balsamic.link != "" and balsamic.link != "TODO_ADD_AFFILIATE_LINK" %}<a href="{{ balsamic.link }}" target="_blank" rel="nofollow">Shop AIP-compliant balsamic vinegar on Amazon</a>{% endif %}
 
 ---
 

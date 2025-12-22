@@ -125,40 +125,20 @@ manioc_starch:
   link: "https://amzn.to/4jsSXxn"
   notes: "also called tapioca starch or manioc starch"
 
-dried_lavender:
-  name: "dried culinary lavender"
-  link: "https://amzn.to/4qjjS0q"
-  notes: "edible grade only"
 
-passion_fruit:
-  name: "passion fruit"
-  link: ""
-  notes: "fresh"
 
-pomegranate_molasses:
-  name: "pomegranate molasses"
-  link: "https://amzn.to/4salKKG"
-  notes: "check for AIP compliance, no additives"
 
 green_papaya:
   name: "green papaya"
   link: ""
   notes: "unripe"
 
-kombucha:
-  name: "unflavored kombucha"
-  link: ""
-  notes: "no added sugar or flavors"
 
 beets:
   name: "beets"
   link: ""
   notes: "fresh"
 
-spaghetti_squash:
-  name: "spaghetti squash"
-  link: ""
-  notes: "medium sized"
 
 butternut_squash:
   name: "butternut squash"
@@ -190,10 +170,6 @@ basil:
   link: ""
   notes: "fresh"
 
-mint:
-  name: "mint"
-  link: ""
-  notes: "fresh"
 
 cinnamon:
   name: "cinnamon"
@@ -265,10 +241,6 @@ spinach:
   link: ""
   notes: ""
 
-collard_greens:
-  name: "collard greens"
-  link: ""
-  notes: ""
 
 apple_cider_vinegar:
   name: "apple cider vinegar"
@@ -280,14 +252,10 @@ applesauce:
   link: ""
   notes: "unsweetened"
 
-dates:
-  name: "dates"
-  link: "https://amzn.to/49dKjy2"
-  notes: "medjool preferred"
 
 figs:
   name: "dried figs"
-  link: ""
+  link: "https://amzn.to/44H1iqZ"
   notes: "unsulfured"
 
 tigernuts:
@@ -390,10 +358,6 @@ cucumber:
   link: ""
   notes: ""
 
-green_beans:
-  name: "green beans"
-  link: ""
-  notes: ""
 
 frozen_banana:
   name: "frozen banana"
@@ -445,24 +409,16 @@ coconut_flakes:
   link: "https://amzn.to/4asBsup"
   notes: "unsweetened"
 
-pumpkin_seeds:
-  name: "pumpkin seeds"
-  link: ""
-  notes: "raw, hulled"
 
-sunflower_seeds:
-  name: "sunflower seeds"
-  link: ""
-  notes: "raw, hulled"
 
 dried_cranberries:
   name: "dried cranberries"
-  link: ""
+  link: "https://amzn.to/496UmEK"
   notes: "unsweetened or apple juice sweetened"
 
 dried_apricots:
   name: "dried apricots"
-  link: ""
+  link: "https://amzn.to/3MLUOkt"
   notes: "unsulfured, organic"
 
 warm_water:
@@ -505,11 +461,6 @@ radishes:
   link: ""
   notes: "thinly sliced"
 
-figs:
-  name: "figs"
-  link: ""
-  notes: "dried, unsulfured"
-
 hot_water:
   name: "hot water"
   link: ""
@@ -517,7 +468,7 @@ hot_water:
 
 balsamic_vinegar:
   name: "balsamic vinegar"
-  link: ""
+  link: "https://amzn.to/3Yb5coi"
   notes: "check for AIP compliance"
 
 shallot:
@@ -530,10 +481,6 @@ red_cabbage:
   link: ""
   notes: "thinly sliced"
 
-tahini:
-  name: "tahini"
-  link: ""
-  notes: "optional, omit for strict AIP"
 
 carob_powder:
   name: "carob powder"
@@ -552,25 +499,21 @@ water:
 
 singoda_flour:
   name: "singoda flour"
-  link: "https://amzn.to/PLACEHOLDER"
+  link: "https://amzn.to/3MWanpE"
   notes: "water chestnut flour, AIP-compliant"
 
 coconut_sugar:
   name: "coconut sugar"
-  link: "https://amzn.to/PLACEHOLDER"
+  link: "https://amzn.to/3L4qO2z"
   notes: "reintroduction phase only"
 
 instant_yeast:
   name: "instant yeast"
-  link: "https://amzn.to/PLACEHOLDER"
+  link: "https://amzn.to/4jbkCT5"
   notes: "also called rapid-rise or bread machine yeast"
 
 blackstrap_molasses:
   name: "blackstrap molasses"
-  link: "https://amzn.to/PLACEHOLDER"
+  link: "https://amzn.to/4seQeLY"
   notes: "unsulphured"
 
-fish_sauce:
-  name: "fish sauce"
-  link: "https://amzn.to/PLACEHOLDER"
-  notes: "Red Boat recommended for AIP"
