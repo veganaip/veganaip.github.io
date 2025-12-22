@@ -39,7 +39,7 @@ foods:
   - olive-oil
   - lemon
 notes: |
-  This legume-free hummus substitute uses zucchini instead of chickpeas, making it perfectly AIP-compliant while still capturing the creamy texture and Mediterranean flavors of traditional hummus. Serve with vegetable sticks or cassava crackers for a satisfying appetizer or snack. Will keep in the refrigerator for up to 4 days.
+  This legume-free hummus substitute uses zucchini instead of chickpeas, and omits tahini (sesame seed paste) and cumin (a seed spice) to keep it perfectly AIP-compliant. Turmeric adds a golden color while olive oil and lemon provide the creamy, tangy Mediterranean flavors. Serve with vegetable sticks or cassava crackers for a satisfying appetizer or snack. Will keep in the refrigerator for up to 4 days.
 ---
 1. Peel and roughly chop the zucchini.
 

@@ -6,12 +6,12 @@
 
 coconut_milk_full_fat:
   name: "full-fat coconut milk"
-  link: "https://amzn.to/youraffiliatelink"
-  notes: "organic, no additives"
+  link: "https://amzn.to/4sah5sq"
+  notes: "gum-free (no gellan, guar, or xanthan gum), organic"
 
 tigernut_oil:
   name: "tigernut oil"
-  link: "https://amzn.to/youraffiliatelink"
+  link: "https://amzn.to/3Y9h4ap"
   notes: "AIP-compliant oil"
 
 ginger_root:
@@ -62,22 +62,22 @@ rosemary:
 # Added specialty AIP ingredients
 cassava_flour:
   name: "cassava flour"
-  link: "https://amzn.to/youraffiliatelink"
+  link: "https://amzn.to/4qpDDUs"
   notes: "AIP-compliant flour substitute"
 
 tigernut_flour:
   name: "tigernut flour"
-  link: "https://amzn.to/youraffiliatelink"
+  link: "https://amzn.to/3Y4apyj"
   notes: "AIP-compliant flour substitute"
 
 coconut_flour:
   name: "coconut flour"
-  link: "https://amzn.to/youraffiliatelink"
+  link: "https://amzn.to/3MYFp09"
   notes: "AIP-compliant flour substitute"
 
 coconut_aminos:
   name: "coconut aminos"
-  link: "https://amzn.to/youraffiliatelink"
+  link: "https://amzn.to/4pXi6mg"
   notes: "soy sauce substitute"
 
 green_plantains:
@@ -85,19 +85,14 @@ green_plantains:
   link: ""
   notes: "should be very firm and green"
 
-gelatin_powder:
-  name: "grass-fed gelatin powder"
-  link: "https://amzn.to/youraffiliatelink"
-  notes: "unflavored"
-
 arrowroot_powder:
   name: "arrowroot powder"
-  link: "https://amzn.to/youraffiliatelink"
+  link: "https://amzn.to/4s80lBZ"
   notes: "thickening agent"
 
 nutritional_yeast:
   name: "nutritional yeast"
-  link: "https://amzn.to/youraffiliatelink"
+  link: "https://amzn.to/4sglrhN"
   notes: "adds cheesy flavor"
 
 lemongrass:
@@ -107,13 +102,8 @@ lemongrass:
 
 jackfruit_young:
   name: "young green jackfruit"
-  link: "https://amzn.to/youraffiliatelink"
+  link: "https://amzn.to/45m5Gf7"
   notes: "in water or brine, not syrup"
-
-palm_hearts:
-  name: "hearts of palm"
-  link: "https://amzn.to/youraffiliatelink"
-  notes: "canned"
 
 olive_oil:
   name: "extra virgin olive oil"
@@ -122,22 +112,22 @@ olive_oil:
 
 avocado_oil:
   name: "avocado oil"
-  link: "https://amzn.to/youraffiliatelink"
+  link: "https://amzn.to/4b24Jwd"
   notes: "high heat cooking oil"
 
 coconut_oil:
   name: "coconut oil"
-  link: ""
+  link: "https://amzn.to/4jjlepR"
   notes: "unrefined, virgin"
 
 manioc_starch:
-  name: "manioc starch"
-  link: "https://amzn.to/youraffiliatelink"
-  notes: "also called tapioca starch"
+  name: "tapioca flour"
+  link: "https://amzn.to/4jsSXxn"
+  notes: "also called tapioca starch or manioc starch"
 
 dried_lavender:
   name: "dried culinary lavender"
-  link: "https://amzn.to/youraffiliatelink"
+  link: "https://amzn.to/4qjjS0q"
   notes: "edible grade only"
 
 passion_fruit:
@@ -147,7 +137,7 @@ passion_fruit:
 
 pomegranate_molasses:
   name: "pomegranate molasses"
-  link: "https://amzn.to/youraffiliatelink"
+  link: "https://amzn.to/4salKKG"
   notes: "check for AIP compliance, no additives"
 
 green_papaya:
@@ -282,8 +272,8 @@ collard_greens:
 
 apple_cider_vinegar:
   name: "apple cider vinegar"
-  link: ""
-  notes: "raw, unfiltered"
+  link: "https://amzn.to/4pPcXfR"
+  notes: "raw, unfiltered with mother"
 
 applesauce:
   name: "applesauce"
@@ -292,7 +282,7 @@ applesauce:
 
 dates:
   name: "dates"
-  link: ""
+  link: "https://amzn.to/49dKjy2"
   notes: "medjool preferred"
 
 figs:
@@ -302,7 +292,7 @@ figs:
 
 tigernuts:
   name: "tigernuts"
-  link: "https://amzn.to/youraffiliatelink"
+  link: "https://amzn.to/4p2H3LL"
   notes: "whole or sliced"
 
 ginger_powder:
@@ -357,7 +347,7 @@ fresh_herbs:
 
 vanilla_extract:
   name: "vanilla extract"
-  link: ""
+  link: "https://amzn.to/4s9Tpo0"
   notes: "alcohol-free for strict AIP"
 
 fresh_berries:
@@ -367,8 +357,8 @@ fresh_berries:
 
 coconut_cream:
   name: "coconut cream"
-  link: ""
-  notes: "thick part from top of coconut milk can"
+  link: "https://amzn.to/4aowpv5"
+  notes: "gum-free (no gellan, guar, or xanthan gum), thick cream"
 
 fresh_apple:
   name: "fresh apple"
@@ -452,7 +442,7 @@ ice_cubes:
 
 coconut_flakes:
   name: "coconut flakes"
-  link: ""
+  link: "https://amzn.to/4asBsup"
   notes: "unsweetened"
 
 pumpkin_seeds:
@@ -482,18 +472,13 @@ warm_water:
 
 hearts_of_palm:
   name: "hearts of palm"
-  link: "https://amzn.to/youraffiliatelink"
+  link: "https://amzn.to/3Y4aEcH"
   notes: "canned"
 
 water_chestnuts:
   name: "water chestnuts"
   link: ""
   notes: "canned, drained"
-
-fish_sauce:
-  name: "fish sauce"
-  link: "https://amzn.to/youraffiliatelink"
-  notes: "compliant AIP version"
 
 butter_lettuce:
   name: "butter lettuce"
@@ -549,3 +534,13 @@ tahini:
   name: "tahini"
   link: ""
   notes: "optional, omit for strict AIP"
+
+carob_powder:
+  name: "carob powder"
+  link: "https://amzn.to/4pIWfyA"
+  notes: "caffeine-free chocolate alternative"
+
+baking_soda:
+  name: "baking soda"
+  link: ""
+  notes: "aluminum-free"

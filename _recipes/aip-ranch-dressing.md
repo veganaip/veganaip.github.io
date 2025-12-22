@@ -31,7 +31,7 @@ ingredients:
     amount: to taste
   - id: nutritional_yeast
     amount: 1 tbsp
-    notes: optional, omit for strict AIP
+    notes: optional - some AIP practitioners allow during elimination, others recommend waiting for reintroduction
 tags: [dressing, ranch, salad]
 foods:
   - coconut

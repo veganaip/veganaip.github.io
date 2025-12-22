@@ -55,4 +55,4 @@ notes: |
 
 7. Refrigerate for at least 30 minutes before serving to allow flavors to meld.
 
-8. Optional: Add a pinch of garlic powder or a small jalapeño (seeds removed) for extra flavor.
+8. Optional: Add a pinch of garlic powder for extra flavor.

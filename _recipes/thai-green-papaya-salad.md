@@ -49,7 +49,7 @@ foods:
   - herbs
   - tigernut
 notes: |
-  This AIP-friendly version of the classic Thai green papaya salad (som tam) substitutes traditional ingredients like fish sauce and peanuts with AIP-compliant alternatives. The result is a bright, refreshing salad with the perfect balance of sweet, sour, and savory flavors. Green papaya can be found in Asian markets - look for firm, unripe papaya with green skin. If you can't find green papaya, you can substitute with daikon radish or jicama for a similar crunchy texture.
+  This AIP-friendly version of the classic Thai green papaya salad (som tam) makes key substitutions: coconut aminos replaces fish sauce (for both AIP and vegan compliance), and tigernuts replace the traditional peanuts (legumes are eliminated on AIP). We also skip the chilies found in traditional som tam. The result is a bright, refreshing salad with the perfect balance of sweet, sour, and savory flavors. Green papaya can be found in Asian markets - look for firm, unripe papaya with green skin. If you can't find green papaya, you can substitute with daikon radish or jicama for a similar crunchy texture.
 ---
 1. In a large bowl, combine shredded green papaya, julienned carrots, and cucumber.
 

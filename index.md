@@ -11,7 +11,8 @@ title: Vegan AIP Kitchen
 
 <h2>Latest Recipes</h2>
 <div class="recipe-grid">
-  {%- for recipe in site.recipes limit:6 -%}
+  {%- assign sorted_recipes = site.recipes | sort: "date" | reverse -%}
+  {%- for recipe in sorted_recipes limit:6 -%}
     {%- include recipe-card.html recipe=recipe -%}
   {%- endfor -%}
 </div>

@@ -1,0 +1,19 @@
+{% comment %}
+Check if any ingredient in the recipe has an active affiliate link
+{% endcomment %}
+{% assign has_affiliate_links = false %}
+{% for ingredient in page.ingredients %}
+    {% assign ingredient_id = ingredient.id | default: ingredient.name | slugify | replace: "-", "_" %}
+    {% assign data_ingredient = site.data.ingredients[ingredient_id] %}
+    {% assign final_link = ingredient.link | default: data_ingredient.link %}
+    {% if final_link and final_link != "" and final_link != "REPLACE_WITH_AMAZON_AFFILIATE_LINK" %}
+        {% assign has_affiliate_links = true %}
+        {% break %}
+    {% endif %}
+{% endfor %}
+
+{% if has_affiliate_links %}
+<p class="affiliate-disclosure">
+    <em>This post may contain affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you. This helps support the site.</em>
+</p>
+{% endif %}
