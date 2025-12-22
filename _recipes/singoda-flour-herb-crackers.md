@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Singoda Flour Herb Crackers"
+description: "Crispy AIP crackers made with singoda flour and fresh herbs. Simple grain-free snack perfect with dips."
 date: 2025-02-28
 image: /assets/images/recipes/singoda-herb-crackers.jpg
 prep_time: 15

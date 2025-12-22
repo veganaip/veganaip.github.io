@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Nomato Marinara Sauce"
+description: "Tomato-free AIP marinara sauce made with beets, carrots, and Italian herbs. Perfect for pasta, pizza, and dipping."
 date: 2025-02-25
 image: /assets/images/recipes/nomato-marinara-sauce.jpg
 prep_time: 15

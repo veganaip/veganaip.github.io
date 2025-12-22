@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Berry Coconut Crisp"
+description: "Warm bubbling berries under a crunchy coconut-tigernut AIP topping. Perfect summer dessert served with coconut cream."
 date: 2025-12-21
 image: /assets/images/recipes/berry-coconut-crisp.jpg
 prep_time: 15

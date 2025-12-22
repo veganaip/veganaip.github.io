@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Tropical Green Smoothie"
+description: "Refreshing AIP green smoothie with mango, pineapple, banana, and spinach in creamy coconut milk. Perfect quick breakfast!"
 date: 2025-02-25
 image: /assets/images/recipes/tropical-green-smoothie.jpg
 prep_time: 10

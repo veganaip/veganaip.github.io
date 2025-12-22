@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Sweet Potato Gnocchi with Sage"
+description: "Pillowy AIP gnocchi made with sweet potato and cassava flour, served in a sage-garlic sauce. Freezer-friendly!"
 date: 2025-02-25
 image: /assets/images/recipes/sweet-potato-gnocchi.jpg
 prep_time: 45

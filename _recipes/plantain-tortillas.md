@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Plantain Tortillas"
+description: "Flexible AIP tortillas made with green plantains. Perfect for tacos, wraps, and as a side. Make-ahead friendly!"
 date: 2025-02-25
 image: /assets/images/recipes/plantain-tortillas.jpg
 prep_time: 15

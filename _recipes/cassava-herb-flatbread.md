@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Italian Herb Cassava Flatbread"
+description: "Crispy Italian-style AIP flatbread made with cassava flour and fresh herbs. Great as a side or pizza base."
 date: 2025-02-25
 image: /assets/images/recipes/cassava-flatbread.jpg
 prep_time: 15

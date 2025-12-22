@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Getting Started with Vegan AIP
+description: "New to vegan AIP? Start here with our beginner's guide to the Autoimmune Protocol diet, including what to eat, what to avoid, and how to succeed."
 ---
 
 # Getting Started with Vegan AIP

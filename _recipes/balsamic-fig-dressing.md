@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Balsamic Fig Dressing"
+description: "Rich, sweet-tart AIP salad dressing made with dried figs and balsamic vinegar. Perfect for salads and roasted vegetables."
 date: 2025-02-25
 image: /assets/images/recipes/balsamic-fig-dressing.jpg
 prep_time: 15

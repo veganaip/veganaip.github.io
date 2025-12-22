@@ -1,6 +1,7 @@
 ---
 layout: default
 title: What is AIP?
+description: "Understand the Autoimmune Protocol (AIP) diet: how it works, what foods to eliminate and emphasize, and the research behind this healing approach."
 ---
 
 # What is the Autoimmune Protocol (AIP)?

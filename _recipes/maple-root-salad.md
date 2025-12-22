@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Maple Glazed Root Vegetable Salad"
+description: "Hearty AIP salad with maple-roasted sweet potato, beets, carrots, and parsnips over massaged kale with tigernut crunch."
 date: 2025-02-25
 image: /assets/images/recipes/maple-root-salad.jpg
 prep_time: 20

@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Mediterranean Zucchini Hummus"
+description: "Legume-free AIP hummus made with zucchini, lemon, and olive oil. Creamy dip perfect with veggies or crackers."
 date: 2025-02-25
 image: /assets/images/recipes/zucchini-hummus.jpg
 prep_time: 15

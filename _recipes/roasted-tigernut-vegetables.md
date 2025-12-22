@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Roasted Tigernut Vegetables"
+description: "Maple-glazed roasted root vegetables with tigernut oil and fresh rosemary. Simple AIP side dish for any meal."
 date: 2025-02-23
 image: /assets/images/recipes/roasted-tigernut-vegetables.jpg
 prep_time: 20

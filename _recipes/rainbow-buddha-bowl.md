@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Rainbow Buddha Bowl"
+description: "Colorful AIP buddha bowl with roasted root vegetables, fresh greens, avocado, and creamy tigernut dressing."
 date: 2025-02-25
 image: /assets/images/recipes/rainbow-buddha-bowl.jpg
 prep_time: 30

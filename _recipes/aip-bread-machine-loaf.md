@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "AIP Bread Machine Loaf (Doubled Recipe)"
+description: "Large AIP sandwich bread made in a bread machine with cassava, tigernut, and tapioca flours. Perfect for toast and sandwiches."
 date: 2025-02-28
 image: /assets/images/recipes/aip-bread-machine-loaf.jpg
 prep_time: 10

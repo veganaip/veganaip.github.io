@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Banana Spice Muffins"
+description: "Tender AIP banana muffins with cinnamon and ginger. Naturally sweet breakfast treat that freezes beautifully."
 date: 2025-12-21
 image: /assets/images/recipes/banana-spice-muffins.jpg
 prep_time: 15

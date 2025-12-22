@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Mango Coconut Tapioca Pudding"
+description: "Tropical AIP tapioca pudding with creamy coconut milk, sweet mango, and bright lime. Serve warm or chilled."
 date: 2025-12-21
 image: /assets/images/recipes/mango-coconut-tapioca-pudding.jpg
 prep_time: 40

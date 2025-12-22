@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Veggie-Packed Lettuce Wraps"
+description: "Asian-inspired AIP lettuce wraps with hearts of palm, mushrooms, and water chestnuts in a savory ginger-garlic sauce."
 date: 2025-02-25
 image: /assets/images/recipes/veggie-packed-lettuce-wraps.jpg
 prep_time: 25

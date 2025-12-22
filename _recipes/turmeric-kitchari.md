@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Indian Turmeric Kitchari Bowl"
+description: "Healing AIP kitchari with cauliflower rice, turmeric, ginger, and creamy coconut milk. Nourishing Indian-inspired bowl."
 date: 2025-02-25
 image: /assets/images/recipes/turmeric-kitchari.jpg
 prep_time: 15

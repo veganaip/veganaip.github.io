@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Mexican Jackfruit Carnitas Tacos"
+description: "Savory AIP-friendly jackfruit carnitas with homemade plantain tortillas. Perfect vegan Mexican taco night!"
 date: 2025-02-25
 image: /assets/images/recipes/jackfruit-carnitas.jpg
 prep_time: 20

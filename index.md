@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Vegan AIP Kitchen
+title: Simple Vegan AIP Recipes
+description: "Delicious plant-based recipes for the Autoimmune Protocol diet. Easy vegan AIP meals for breakfast, lunch, dinner, and desserts."
 ---
 
 # Welcome to Vegan AIP Kitchen

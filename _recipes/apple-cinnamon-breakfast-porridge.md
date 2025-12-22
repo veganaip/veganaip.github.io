@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Apple Cinnamon Breakfast Porridge"
+description: "Warming AIP breakfast porridge made with tigernut and coconut flour, topped with fresh apples and cinnamon. Tastes like apple pie!"
 date: 2025-02-25
 image: /assets/images/recipes/apple-cinnamon-breakfast-porridge.jpg
 prep_time: 10

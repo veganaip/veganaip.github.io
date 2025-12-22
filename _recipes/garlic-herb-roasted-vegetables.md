@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Garlic Herb Roasted Vegetables"
+description: "Colorful AIP sheet pan roasted vegetables with garlic, rosemary, and thyme. Simple side dish that goes with everything."
 date: 2025-12-21
 image: /assets/images/recipes/garlic-herb-roasted-vegetables.jpg
 prep_time: 15

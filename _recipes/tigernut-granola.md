@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Tigernut Granola"
+description: "Crunchy grain-free AIP granola with tigernuts, coconut, and dried fruit. Perfect with coconut yogurt or as a snack."
 date: 2025-02-25
 image: /assets/images/recipes/tigernut-granola.jpg
 prep_time: 15

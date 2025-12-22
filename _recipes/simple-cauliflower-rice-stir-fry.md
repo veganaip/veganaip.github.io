@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Simple Cauliflower Rice Stir-Fry"
+description: "Quick AIP cauliflower rice stir-fry with colorful vegetables and coconut aminos. 30-minute weeknight dinner."
 date: 2025-12-21
 image: /assets/images/recipes/simple-cauliflower-rice-stir-fry.jpg
 prep_time: 15

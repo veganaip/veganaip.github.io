@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "What to Expect: AIP Flavors & Textures"
+description: "What to expect when starting vegan AIP: realistic expectations for bread, cheese, pasta, and dessert alternatives on the Autoimmune Protocol."
 ---
 
 # What to Expect: AIP Flavors & Textures

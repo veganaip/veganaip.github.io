@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Thai Green Papaya Salad"
+description: "Fresh AIP Thai salad with shredded green papaya, lime dressing, and crispy tigernuts. Bright, crunchy, and refreshing."
 date: 2025-02-25
 image: /assets/images/recipes/thai-green-papaya-salad.jpg
 prep_time: 25

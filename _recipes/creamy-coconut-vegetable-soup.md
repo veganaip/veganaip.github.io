@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Creamy Coconut Vegetable Soup"
+description: "Warming AIP vegetable soup with coconut milk and turmeric. Dairy-free, nourishing, and perfect for meal prep."
 date: 2025-12-21
 image: /assets/images/recipes/creamy-coconut-vegetable-soup.jpg
 prep_time: 15

@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Avocado Lime Dressing"
+description: "Creamy AIP avocado lime dressing with fresh cilantro. Perfect for salads, tacos, and bowls."
 date: 2025-02-25
 image: /assets/images/recipes/avocado-lime-dressing.jpg
 prep_time: 10

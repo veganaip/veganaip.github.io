@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Low-Oil Crispy Onion Pakoras"
+description: "Crispy Indian-style AIP onion pakoras with singoda flour, shallow-fried with minimal oil. Perfect teatime snack!"
 date: 2025-02-28
 image: /assets/images/recipes/crispy-onion-pakoras.jpg
 prep_time: 20

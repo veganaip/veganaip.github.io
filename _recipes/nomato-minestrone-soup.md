@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Nomato Minestrone Soup"
+description: "Italian-style AIP minestrone made with beets instead of tomatoes. Hearty vegetable soup packed with butternut squash and herbs."
 date: 2025-02-25
 image: /assets/images/recipes/nomato-minestrone-soup.jpg
 prep_time: 20

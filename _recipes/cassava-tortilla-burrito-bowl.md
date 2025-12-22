@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Cassava Tortilla Burrito Bowl"
+description: "AIP Mexican-inspired burrito bowl with homemade cassava tortilla bowls, jackfruit carnitas, and cilantro-lime cauliflower rice."
 date: 2025-02-25
 image: /assets/images/recipes/cassava-tortilla-burrito-bowl.jpg
 prep_time: 30

@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "AIP Apple Pie Bars"
+description: "Comforting AIP apple pie in bar form with tigernut crust and cinnamon-ginger spiced apple filling. Fall favorite!"
 date: 2025-12-21
 image: /assets/images/recipes/apple-pie-bars.jpg
 prep_time: 25

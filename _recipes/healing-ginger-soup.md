@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Healing Ginger Vegetable Soup"
+description: "Nourishing AIP soup with ginger, turmeric, coconut milk, and root vegetables. Perfect for beginners and great for digestion."
 date: 2025-02-23
 image: /assets/images/recipes/ginger-soup.jpg
 prep_time: 15

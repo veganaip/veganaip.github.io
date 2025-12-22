@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Vegan AIP-Compliant Tigernut Carob Cookies"
+description: "Soft, naturally sweet AIP cookies with tigernut flour and carob. Chocolate-free treat that satisfies cravings!"
 date: 2025-02-28
 image: /assets/images/recipes/tigernut-carob-cookies.jpg
 prep_time: 15

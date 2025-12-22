@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Cassava Flour Pizza Crust"
+description: "Crispy AIP pizza crust made with cassava flour. Grain-free, dairy-free base for all your favorite toppings."
 date: 2025-02-25
 image: /assets/images/recipes/cassava-flour-pizza-crust.jpg
 prep_time: 20

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About | Vegan AIP Kitchen
+description: "Learn about Vegan AIP Kitchen and our mission to make the Autoimmune Protocol accessible with delicious plant-based recipes."
 ---
 
 # About Vegan AIP Kitchen

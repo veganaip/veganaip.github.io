@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Creamy AIP Ranch Dressing"
+description: "Dairy-free AIP ranch dressing with coconut cream and herbs. Perfect for salads, dipping veggies, or drizzling."
 date: 2025-02-25
 image: /assets/images/recipes/aip-ranch-dressing.jpg
 prep_time: 10

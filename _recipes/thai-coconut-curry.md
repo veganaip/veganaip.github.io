@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Thai Coconut Vegetable Curry"
+description: "Aromatic AIP Thai curry with lemongrass, ginger, and turmeric in creamy coconut milk with seasonal vegetables."
 date: 2025-02-25
 image: /assets/images/recipes/thai-coconut-curry.jpg
 prep_time: 20

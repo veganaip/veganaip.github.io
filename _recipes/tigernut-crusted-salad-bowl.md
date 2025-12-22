@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Tigernut-Crusted Salad Bowl"
+description: "Colorful AIP salad bowl with crispy tigernut-crusted sweet potato cubes, fresh vegetables, and herb-lemon dressing."
 date: 2025-02-25
 image: /assets/images/recipes/tigernut-crusted-salad-bowl.jpg
 prep_time: 20

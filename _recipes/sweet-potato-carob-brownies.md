@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Fudgy Sweet Potato Carob Brownies"
+description: "Dense, fudgy AIP brownies with sweet potato and carob. Chocolate-free, naturally sweetened, incredibly satisfying."
 date: 2025-12-21
 image: /assets/images/recipes/sweet-potato-carob-brownies.jpg
 prep_time: 20

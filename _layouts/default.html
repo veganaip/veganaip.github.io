@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
     {% seo %}
+    {% if page.url == '/' %}
+    {% include organization-schema.html %}
+    {% endif %}
 </head>
 <body>
     <header class="site-header">

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tips for Vegan AIP Success
+description: "22 practical tips for succeeding on the vegan AIP diet, from meal prep strategies to handling social situations."
 ---
 
 # Tips for Vegan AIP Success

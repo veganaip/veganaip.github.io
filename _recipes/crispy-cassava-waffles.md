@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Crispy Cassava Waffles"
+description: "Crispy, fluffy AIP waffles made with cassava flour and coconut milk. Perfect weekend breakfast with berries and maple syrup."
 date: 2025-02-25
 image: /assets/images/recipes/crispy-cassava-waffles.jpg
 prep_time: 15
