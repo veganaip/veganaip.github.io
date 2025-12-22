@@ -15,7 +15,7 @@ ingredients:
     amount: 1/4 cup
   - id: tigernut_flour
     amount: 3/4 cup
-  - id: arrowroot_starch
+  - id: arrowroot_powder
     amount: 1/4 cup
   - id: carob_powder
     amount: 1/3 cup
@@ -38,6 +38,16 @@ ingredients:
   - id: water
     amount: 3-4 tbsp
     notes: warm, as needed
+instructions:
+  - Preheat oven to 350°F (175°C) and line a baking sheet with parchment paper.
+  - In a large bowl, whisk together cassava flour, coconut flour, tigernut flour, arrowroot starch, carob powder (if using), salt, baking soda, and cinnamon.
+  - In a separate bowl, mix melted coconut oil and coconut sugar until well combined. Add maple syrup if using.
+  - Gradually add dry ingredients to wet ingredients, mixing well.
+  - Add warm water 1 tablespoon at a time until you reach a workable cookie dough consistency.
+  - Roll dough into balls (about 1-2 tablespoons each) and place on prepared baking sheet.
+  - Flatten slightly with the palm of your hand or a fork.
+  - Bake for 10-12 minutes at 350°F.
+  - Let cool on the baking sheet for 5 minutes before transferring to a wire rack.
 ---
 
 These naturally sweet cookies feature tigernut flour for a delicious nutty flavor and tender texture. Perfect for satisfying your sweet tooth while staying AIP-compliant.
