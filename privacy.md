@@ -41,6 +41,9 @@ We are a participant in the Amazon Services LLC Associates Program, an affiliate
 **Mailchimp**
 We use Mailchimp to manage our email newsletter. When you subscribe to our mailing list, your email address is stored by Mailchimp. For more information, please see [Mailchimp's Privacy Policy](https://mailchimp.com/legal/privacy/).
 
+**GoatCounter Analytics**
+We use GoatCounter, a privacy-friendly analytics service, to understand how visitors use our website. GoatCounter collects anonymous information including pages visited, referring websites, browser type, screen size, and general geographic location. GoatCounter does not use cookies or collect personal data. For more information, see [GoatCounter's Privacy Policy](https://www.goatcounter.com/help/privacy).
+
 ## Affiliate Disclosure
 
 As an Amazon Associate, we earn from qualifying purchases. This means that when you click on product links on our site and make a purchase on Amazon, we may receive a small commission at no additional cost to you. This helps support our website and allows us to continue providing free recipes and content.
