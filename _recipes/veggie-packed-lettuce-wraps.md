@@ -31,10 +31,7 @@ ingredients:
     amount: 1 inch
     notes: grated
   - id: coconut_aminos
-    amount: 3 tbsp
-  - id: fish_sauce
-    amount: 1 tbsp
-    notes: compliant AIP version
+    amount: 4 tbsp
   - id: maple_syrup
     amount: 1 tsp
   - id: lime
@@ -59,7 +56,7 @@ instructions:
   - Heat avocado oil in a large skillet over medium heat. Add white parts of green onions, garlic, and ginger. Sauté for 1-2 minutes until fragrant.
   - Add chopped mushrooms and cook for 3-4 minutes until they release their moisture.
   - Add shredded hearts of palm, grated carrots, and diced water chestnuts. Cook for another 3-4 minutes.
-  - Whisk together coconut aminos, AIP fish sauce, maple syrup, and lime juice.
+  - Whisk together coconut aminos, maple syrup, and lime juice.
   - Pour the sauce mixture over the vegetables and cook for 2 minutes until heated through and sauce has reduced.
   - Remove from heat and stir in half the fresh herbs and green parts of scallions. Season with salt.
   - Spoon filling into butter lettuce leaves, top with sliced avocado and remaining fresh herbs.
@@ -87,7 +84,7 @@ notes: |
 
 4. Add the shredded hearts of palm, grated carrots, and diced water chestnuts. Cook for another 3-4 minutes, stirring occasionally.
 
-5. In a small bowl, whisk together coconut aminos, AIP fish sauce, maple syrup, and lime juice.
+5. In a small bowl, whisk together coconut aminos, maple syrup, and lime juice.
 
 6. Pour the sauce mixture over the vegetable mixture in the skillet and stir to combine. Cook for another 2 minutes until everything is well heated and the sauce has slightly reduced.
 
