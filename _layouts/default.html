@@ -16,7 +16,9 @@
                 <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
             </div>
             <div class="nav-links">
+                <a href="{{ '/getting-started' | relative_url }}">Getting Started</a>
                 <a href="{{ '/recipes' | relative_url }}">Recipes</a>
+                <a href="{{ '/aip-ingredient-guide' | relative_url }}">Ingredients</a>
                 <a href="{{ '/what-is-aip' | relative_url }}">What is AIP?</a>
                 <a href="{{ '/about' | relative_url }}">About</a>
             </div>
@@ -35,6 +37,9 @@
             </div>
             <div class="footer-section">
                 <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+                <p class="footer-links">
+                    <a href="{{ '/privacy' | relative_url }}">Privacy Policy</a>
+                </p>
             </div>
         </div>
     </footer>

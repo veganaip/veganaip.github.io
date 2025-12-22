@@ -63,7 +63,7 @@ foods:
   - lime
   - cilantro
 notes: |
-  This AIP-friendly version of the traditional Indian healing dish kitchari uses cauliflower rice instead of mung beans and rice. Turmeric and ginger provide anti-inflammatory properties, making this a nourishing, gut-friendly meal. Leftovers will keep in the refrigerator for up to 3 days and actually improve in flavor over time.
+  This AIP-friendly version of the traditional Indian healing dish kitchari uses cauliflower rice instead of the traditional mung beans and rice, which are eliminated on AIP (legumes and grains). We also skip the cumin and mustard seeds found in traditional recipes, relying on turmeric, ginger, and cinnamon for warming flavor. The result is a nourishing, gut-friendly meal with anti-inflammatory properties. Leftovers will keep in the refrigerator for up to 3 days and actually improve in flavor over time.
 ---
 1. Heat coconut oil in a large pot over medium heat. Add onions and sauté for 3-4 minutes until translucent.
 

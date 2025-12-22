@@ -10,7 +10,9 @@ layout: default
     
     <div class="recipe-content">
         <h1>{{ page.title }}</h1>
-        
+
+        {% include affiliate-disclosure.html %}
+
         <div class="recipe-meta">
             <span>Prep: {{ page.prep_time }} mins</span>
             <span>Cook: {{ page.cook_time }} mins</span>
@@ -25,8 +27,9 @@ layout: default
                 {% assign data_ingredient = site.data.ingredients[ingredient_id] %}
                 {% if data_ingredient.name or ingredient.name %}
                 <li>
-                    {% if ingredient.link or data_ingredient.link != "" and data_ingredient.link %}
-                    <a href="{{ ingredient.link | default: data_ingredient.link }}" target="_blank" rel="nofollow">
+                    {% assign final_link = ingredient.link | default: data_ingredient.link %}
+                    {% if final_link and final_link != "" and final_link != "REPLACE_WITH_AMAZON_AFFILIATE_LINK" %}
+                    <a href="{{ final_link }}" target="_blank" rel="nofollow">
                         {{ ingredient.amount }} {{ ingredient.name | default: data_ingredient.name }}
                     </a>
                     {% else %}
