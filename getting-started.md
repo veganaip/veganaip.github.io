@@ -81,3 +81,8 @@ The elimination phase typically lasts 30-90 days, after which you can systematic
 ---
 
 Ready to explore recipes? [Browse our full collection](/recipes).
+
+<div class="disclaimer" style="background: #f5f5f5; padding: 20px; border-left: 4px solid #e67e22; margin-top: 40px; font-size: 14px;">
+<h3 style="margin-top: 0;">Important Disclaimer</h3>
+<p>The information on this page is for educational purposes only and is not intended as medical or nutritional advice. Always consult with a qualified healthcare provider before making significant dietary changes, especially if you have an autoimmune condition or other health concerns. See our full <a href="/disclaimer/">Disclaimer</a> for more information.</p>
+</div>

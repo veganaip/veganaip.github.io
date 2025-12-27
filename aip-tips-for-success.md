@@ -175,3 +175,8 @@ This is hard. Acknowledge that. You're making a significant change to support yo
 - [AIP Ingredient Guide](/aip-ingredient-guide) - Learn about specialty ingredients
 - [What to Expect](/aip-expectations) - Understand flavors and textures
 - [Back to Getting Started](/getting-started)
+
+<div class="disclaimer" style="background: #f5f5f5; padding: 20px; border-left: 4px solid #e67e22; margin-top: 40px; font-size: 14px;">
+<h3 style="margin-top: 0;">Important Disclaimer</h3>
+<p>These tips are for informational purposes only and are not intended as medical advice. Please consult with a healthcare provider before making significant dietary changes. See our full <a href="/disclaimer/">Disclaimer</a> for more information.</p>
+</div>

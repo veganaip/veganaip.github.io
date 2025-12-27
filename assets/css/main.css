@@ -281,6 +281,14 @@ body {
     margin-bottom: 0.5rem;
 }
 
+.ingredient-notice {
+    font-size: 0.8rem;
+    color: #666;
+    margin-top: 1rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--border-color);
+}
+
 .print-button {
     background: var(--primary-color);
     color: white;
@@ -408,6 +416,14 @@ p {
 
 .footer-links a:hover {
     color: var(--primary-color);
+}
+
+.footer-disclaimer {
+    font-size: 0.8rem;
+    color: #666;
+    max-width: 600px;
+    margin: 0 auto 1rem;
+    line-height: 1.5;
 }
 
 /* Affiliate Disclosure */

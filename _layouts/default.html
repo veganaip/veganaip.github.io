@@ -14,6 +14,7 @@
     {% if page.faqs %}
     {% include faq-schema.html %}
     {% endif %}
+    {% include breadcrumb-schema.html %}
     <script data-goatcounter="https://veganaip.goatcounter.com/count"
             async src="//gc.zgo.at/count.js"></script>
 </head>
@@ -44,9 +45,11 @@
                 {% include mailchimp.html %}
             </div>
             <div class="footer-section">
+                <p class="footer-disclaimer">The content on this site is for informational purposes only and is not intended as medical or nutritional advice. Please consult a healthcare provider before making dietary changes.</p>
                 <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
                 <p class="footer-links">
-                    <a href="{{ '/privacy' | relative_url }}">Privacy Policy</a>
+                    <a href="{{ '/privacy' | relative_url }}">Privacy Policy</a> |
+                    <a href="{{ '/disclaimer' | relative_url }}">Disclaimer</a>
                 </p>
             </div>
         </div>
