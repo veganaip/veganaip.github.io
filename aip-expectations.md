@@ -124,3 +124,8 @@ That AIP bread may not taste like wheat bread, but if it satisfies your need for
 - [Tips for Success](/aip-tips-for-success) - Practical strategies for staying on track
 - [AIP Ingredient Guide](/aip-ingredient-guide) - Learn about specialty ingredients
 - [Back to Getting Started](/getting-started)
+
+<div class="disclaimer" style="background: #f5f5f5; padding: 20px; border-left: 4px solid #e67e22; margin-top: 40px; font-size: 14px;">
+<h3 style="margin-top: 0;">Important Disclaimer</h3>
+<p>The information on this page is for educational purposes only and is not intended as medical or nutritional advice. Individual responses to dietary changes vary significantly. Always consult with a qualified healthcare provider before starting any elimination diet. See our full <a href="/disclaimer/">Disclaimer</a> for more information.</p>
+</div>

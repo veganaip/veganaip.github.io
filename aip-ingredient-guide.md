@@ -248,3 +248,8 @@ Check labels for AIP compliance - some brands contain caramel coloring or sulfit
 - [What to Expect](/aip-expectations) - Understand how familiar foods will taste and feel different
 - [Tips for Success](/aip-tips-for-success) - Practical strategies for staying on track
 - [Back to Getting Started](/getting-started)
+
+<div class="disclaimer" style="background: #f5f5f5; padding: 20px; border-left: 4px solid #e67e22; margin-top: 40px; font-size: 14px;">
+<h3 style="margin-top: 0;">Important Note</h3>
+<p>Individual tolerances vary. While these ingredients are generally considered AIP-compliant, your body may respond differently. Always introduce new ingredients carefully and consult with a healthcare provider if you have concerns about specific foods. See our full <a href="/disclaimer/">Disclaimer</a> for more information.</p>
+</div>

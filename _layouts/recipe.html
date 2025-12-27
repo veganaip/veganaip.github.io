@@ -5,7 +5,7 @@ layout: default
     {% include recipe-schema.html %}
     {% if page.image %}
     <div class="recipe-header-image">
-        <img src="{{ page.image | relative_url }}" alt="{{ page.title }} - vegan AIP recipe">
+        <img src="{{ page.image | relative_url }}" alt="{{ page.title }} - vegan AIP recipe" width="800" height="600">
     </div>
     {% endif %}
     
@@ -49,6 +49,7 @@ layout: default
                 {% endif %}
                 {% endfor %}
             </ul>
+            <p class="ingredient-notice"><em>Always verify ingredients meet your specific dietary needs and check for allergens.</em></p>
         </section>
 
         <section class="recipe-instructions">

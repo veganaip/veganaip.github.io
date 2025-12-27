@@ -3,7 +3,7 @@
     <a href="{{ recipe.url | relative_url }}" class="recipe-card-link">
         {% if recipe.image %}
         <div class="recipe-card-image">
-            <img src="{{ recipe.image | relative_url }}" alt="{{ recipe.title }} - vegan AIP recipe">
+            <img src="{{ recipe.image | relative_url }}" alt="{{ recipe.title }} - vegan AIP recipe" width="400" height="300" loading="lazy">
         </div>
         {% endif %}
         <div class="recipe-card-content">
